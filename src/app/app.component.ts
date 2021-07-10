@@ -1,4 +1,8 @@
 import { Component, OnInit } from '@angular/core';
+import { MatDialog, MatDialogRef, MAT_DIALOG_DATA  } from '@angular/material/dialog';
+import { ModalComponent } from './modal/modal.component';
+
+// import { MatDialog, MatDialogRef, MAT_DIALOG_DATA } from '@angular/material';
 
 
 @Component({
@@ -9,16 +13,15 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AppComponent implements OnInit {
   title = 'PMI-BRASIL';
-
-  ngOnInit() {
-    window.addEventListener('scroll', function () {
+  constructor() { }
+  ngOnInit(): void {
+    window.addEventListener('scroll', function(): void {
       if (window.scrollY > 400) {
         document.getElementById('mainNav').classList.add('navbar-shrink');
       } else {
         document.getElementById('mainNav').classList.remove('navbar-shrink');
       }
     });
-
-    
   }
+
 }

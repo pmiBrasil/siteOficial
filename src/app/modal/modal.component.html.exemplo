@@ -1,0 +1,54 @@
+  <h1 mat-dialog-title>{{ article.title }}</h1>
+  <div mat-dialog-content>
+    <div>
+      <div>
+        <!-- <div mat-dialog-actions>
+          <img  src="./../assets/img/close-icon.svg" alt="Close modal" (click)="onNoClick()" />
+        </div> -->
+        <div >
+          <div >
+            <div >
+              <div>
+           
+                <h2 >{{ article.title }}</h2>
+                <p >
+                  {{ article.title2 }}
+                </p>
+                <div >
+                  <img
+                    class="img-fluid d-block mx-auto"
+                    src="{{ article.img }}"
+                    alt=""
+                  />
+                  <h1>{{ article.title }}</h1>
+                  <article [innerHTML]="article.articleBody">
+                    
+                  </article>
+                </div>
+                <ul class="list-inline">
+                  <li>Date: novembro 2020</li>
+                  <li>projeto: Amor aos africanos</li>
+                  <li>Category: Africa</li>
+                  <li>
+                    fontes:
+                    <a
+                      href="https://pt.wikipedia.org/wiki/Cristianismo_em_%C3%81frica"
+                      >wikipedia</a
+                    >
+                  </li>
+                </ul>
+                <button
+                  class="btn btn-primary"
+                  data-dismiss="modal"
+                  type="button"
+                >
+                  <i class="fas fa-times mr-1"></i>
+                  Close Project
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
