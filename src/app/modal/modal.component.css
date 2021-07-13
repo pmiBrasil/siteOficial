@@ -1,21 +1,25 @@
 .ButtonClose {
-
-  background-color: red;
+  max-width: 5rem;
+  margin: 0;
+  margin-left: 97%;
+  padding: 0;
 }
 * {
-  overflow: visible;
-  scroll-behavior: auto;
-  z-index: 9999 !important;
+  /* overflow:hidden ; */
+  scroll-behavior: smooth;
+  /* z-index: 9999 !important; */
+  
 }
 
 .articleBody {
   margin-top: 50px !important;
-  
   display: flex;
   flex-direction: column;
   align-items: center;
   margin: 0;
-  max-width: 100%;
+  padding: 0;
+  max-width: 70vw;
+  margin-left: 5%;
   font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 
 }
