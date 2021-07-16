@@ -37,3 +37,13 @@
 color: #4DAF94 !important;
 transition: 0.1s;
 }
+.citacao{
+  font-size: 1.3rem !important;
+  line-height: 1.5rem;
+  font-weight: 500 !important;
+  max-width: 50%;
+  text-align: center;
+}
+.DescricaoDeQuemIndica{
+  font-size: small;
+}
