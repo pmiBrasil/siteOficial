@@ -37,12 +37,8 @@
 
   <body id="page-top" data-spy="scroll" data-target="#mainNav" data-offset="0">
     <!-- Navigation-->
-    <nav
-      class="navbar navbar-expand-lg fixed-top"
-      id="mainNav"
-      name="NavDynamic"
-    >
-      <div class="container">
+    <nav class="navbar navbar-expand-lg fixed-top" id="mainNav" name="NavDynamic" >
+      <div class="container-fluid">
         <a class="navbar-brand" href="#page-top"
           ><img
             src="./../assets/img/pmiInter-logo.svg"
@@ -79,6 +75,9 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#team">Parceiros</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#palavraDiretor">palavra do diretor</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#contact">Contato</a>
@@ -353,18 +352,21 @@
         </ul>
       </div>
     </section>
-    <h1>palavra do diretor</h1>
+    <section class="page-section bg-light" id="palavraDiretor">
+      <h1>palavra do diretor</h1>
+    </section>
     <!-- Team-->
-    <section class="page-section bg-light" id="team">
+    <section class="page-section" id="team">
       <div class="container">
         <div class="text-center">
-          <h2 class="section-heading text-uppercase">Nossos Parceiros</h2>
+          <!-- <h2 class="section-heading text-uppercase">Nossos Parceiros</h2> -->
+          <h2 class="section-heading text-uppercase">Quem nos Conhece</h2>
           <h3 class="section-subheading text-muted">
-            Testemunho de quem nos conhece.
+            Uma breve palavra sobre a PMI
           </h3>
         </div>
         <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-        <div class="row" class="carousel-inner">
+        <div class="row" class="carousel-inner"  style="margin-top: -50px; padding-top: -50px;">
           <div class="col-lg-4" class="carousel-item active">
             <div class="team-member d-flex flex-column align-items-center mt-5">
               <img
@@ -373,7 +375,7 @@
                 alt=""
               />
               <h4>Ronaldo Lidorio</h4>
-              <p class="text-muted DescricaoDeQuemIndica">É pastor presbiteriano e missionário ligado à Agência Presbiteriana de Missões Transculturais (APMT) e à WEC Internacional</p>
+              <p class="text-muted ">É pastor presbiteriano e missionário ligado à <abbr title="Agência Presbiteriana de Missões Transculturaisa">(APMT)</abbr> e à WEC Internacional</p>
               <h3 class="section-subheading text-muted citacao">
                 "A PMI  é motivo de profunda gratidão a Deus, pela visão do Reino, compromisso com a Palavra e manifesto zelo no desenvolvimento da missão a partir de sinceros e profundos relacionamentos pessoais."
               </h3>
@@ -391,47 +393,85 @@
             </div>
           </div>
 
-          <div class="col-lg-4" class="carousel-item">
-            <div class="team-member">
+          <div class="col-lg-4" class="carousel-item ">
+            <div class="team-member d-flex flex-column align-items-center mt-5">
               <img
                 class="mx-auto rounded-circle"
-                src="./../assets/img/team/2.jpg"
+                src="./../assets/img/imgIndicacoes/FlavioRamos.png"
                 alt=""
               />
-              <h4>Larry Parker</h4>
-              <p class="text-muted">Lead Marketer</p>
-              <a class="btn btn-dark btn-social mx-2" href="#!"
-                ><i class="fab fa-twitter"></i
-              ></a>
-              <a class="btn btn-dark btn-social mx-2" href="#!"
-                ><i class="fab fa-facebook-f"></i
-              ></a>
-              <a class="btn btn-dark btn-social mx-2" href="#!"
-                ><i class="fab fa-linkedin-in"></i
-              ></a>
+              <h4>Flavio Ramos</h4>
+              <p class="text-muted ">Presidente da <abbr title=" Missão Evangélica Árabe do Brasil">MEAB</abbr></p>
+              <h3 class="section-subheading text-muted citacao">
+                "O ministério da PMI tem sido de grande impacto e bençãos na vida milhares de pessoas ao redor do mundo. Para mim é  um privilégio servir em parceria com esses irmãos."
+              </h3>
+              <div style="margin-top: -25px;">
+                <a class="btn btn-dark btn-social mx-2" href="#!"
+                  ><i class="fab fa-twitter"></i
+                ></a>
+                <a class="btn btn-dark btn-social mx-2" href="#!"
+                  ><i class="fab fa-facebook-f"></i
+                ></a>
+                <a class="btn btn-dark btn-social mx-2" href="#!"
+                  ><i class="fab fa-linkedin-in"></i
+                ></a>
+              </div>
             </div>
           </div>
 
-          <div class="col-lg-4" class="carousel-item">
-            <div class="team-member">
+          <div class="col-lg-4" class="carousel-item ">
+            <div class="team-member d-flex flex-column align-items-center mt-5">
               <img
                 class="mx-auto rounded-circle"
-                src="./../assets/img/team/3.jpg"
+                src="./../assets/img/imgIndicacoes/JoaoLuizSantiago.png"
                 alt=""
               />
-              <h4>Diana Petersen</h4>
-              <p class="text-muted">Lead Developer</p>
-              <a class="btn btn-dark btn-social mx-2" href="#!"
-                ><i class="fab fa-twitter"></i
-              ></a>
-              <a class="btn btn-dark btn-social mx-2" href="#!"
-                ><i class="fab fa-facebook-f"></i
-              ></a>
-              <a class="btn btn-dark btn-social mx-2" href="#!"
-                ><i class="fab fa-linkedin-in"></i
-              ></a>
+              <h4>Joao Luiz Santiago</h4>
+              <p class="text-muted ">Coordenador do Departamento de Missões do <abbr title="Seminário Bíblico Palavra da Vida (Atibaia-SP)">PV</abbr></p>
+              <h3 class="section-subheading text-muted citacao">
+                "Tenho o prazer de conhecer vários obreiros da PMI e sua seriedade na tarefa missionária aos não alcançados. Agência comprometida com a Causa em tornar o nome de Jesus mais conhecido."
+              </h3>
+              <div style="margin-top: -25px;">
+                <a class="btn btn-dark btn-social mx-2" href="#!"
+                  ><i class="fab fa-twitter"></i
+                ></a>
+                <a class="btn btn-dark btn-social mx-2" href="#!"
+                  ><i class="fab fa-facebook-f"></i
+                ></a>
+                <a class="btn btn-dark btn-social mx-2" href="#!"
+                  ><i class="fab fa-linkedin-in"></i
+                ></a>
+              </div>
             </div>
           </div>
+
+          <div class="col-lg-4" class="carousel-item ">
+            <div class="team-member d-flex flex-column align-items-center mt-5">
+              <img
+                class="mx-auto rounded-circle"
+                src="./../assets/img/imgIndicacoes/JuarezMarcondesFilho.png"
+                alt=""
+              />
+              <h4>Reverendo Juarez Marcondes Filho</h4>
+              <p class="text-muted ">Pastor da Igreja Presbiteriana Central de Curitiba <abbr title="e secretário do Supremo Concílio da Igreja Presbiteriana do Brasil">...</abbr></p>
+              <h3 class="section-subheading text-muted citacao" style=" max-width: 60% !important;">
+                "Em qualquer lugar, fazer Missão é anunciar o nome de Jesus. Mas não se pode fazer Missão do mesmo modo em todo lugar. PMI é uma verdadeira missão voltada para atender uma demanda crescente, em prol dos muçulmanos, por quem Jesus derramou o seu precioso sangue. Se alguém receber o chamado de Deus para ir a estes povos, não pode deixar de incluir o contato com PMI"
+              </h3>
+              <div style="margin-top: -25px;">
+                <a class="btn btn-dark btn-social mx-2" href="#!"
+                  ><i class="fab fa-twitter"></i
+                ></a>
+                <a class="btn btn-dark btn-social mx-2" href="#!"
+                  ><i class="fab fa-facebook-f"></i
+                ></a>
+                <a class="btn btn-dark btn-social mx-2" href="#!"
+                  ><i class="fab fa-linkedin-in"></i
+                ></a>
+              </div>
+            </div>
+          </div>
+
+
 
         </div>
         </div>
