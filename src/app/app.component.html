@@ -37,12 +37,8 @@
 
   <body id="page-top" data-spy="scroll" data-target="#mainNav" data-offset="0">
     <!-- Navigation-->
-    <nav
-      class="navbar navbar-expand-lg fixed-top"
-      id="mainNav"
-      name="NavDynamic"
-    >
-      <div class="container">
+    <nav class="navbar navbar-expand-lg fixed-top" id="mainNav" name="NavDynamic" >
+      <div class="container-fluid">
         <a class="navbar-brand" href="#page-top"
           ><img
             src="./../assets/img/pmiInter-logo.svg"
@@ -79,6 +75,9 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#team">Parceiros</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#palavraDiretor">palavra do diretor</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#contact">Contato</a>
@@ -353,9 +352,11 @@
         </ul>
       </div>
     </section>
-    <h1>palavra do diretor</h1>
+    <section class="page-section bg-light" id="palavraDiretor">
+      <h1>palavra do diretor</h1>
+    </section>
     <!-- Team-->
-    <section class="page-section bg-light" id="team">
+    <section class="page-section" id="team">
       <div class="container">
         <div class="text-center">
           <!-- <h2 class="section-heading text-uppercase">Nossos Parceiros</h2> -->
@@ -365,7 +366,7 @@
           </h3>
         </div>
         <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-        <div class="row" class="carousel-inner">
+        <div class="row" class="carousel-inner"  style="margin-top: -50px; padding-top: -50px;">
           <div class="col-lg-4" class="carousel-item active">
             <div class="team-member d-flex flex-column align-items-center mt-5">
               <img
