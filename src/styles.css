@@ -3990,7 +3990,7 @@ input[type=button].btn-block {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  padding: 0.5rem 1rem;
+  padding: 10rem 10rem;
 }
 .navbar .container,
 .navbar .container-fluid,
@@ -4154,6 +4154,9 @@ input[type=button].btn-block {
   }
 }
 @media (max-width: 991.98px) {
+.navbar {
+  padding: 0.5rem 1rem;
+}
 .navbar-expand-lg > .container,
 .navbar-expand-lg > .container-fluid,
 .navbar-expand-lg > .container-sm,
