@@ -4154,6 +4154,11 @@ input[type=button].btn-block {
   }
 }
 @media (max-width: 991.98px) {
+  .centralizaElementosNavButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 .navbar {
   padding: 0.5rem 1rem;
 }
