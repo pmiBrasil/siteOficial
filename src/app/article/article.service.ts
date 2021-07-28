@@ -178,20 +178,107 @@ export class ArticleService {
           da PMI – Ásia</span></p>',
       },
       {
-        id: 2,
-        datePublished: '2021-02-18',
-        projeto: 'nome do projeto',
-        categoria: 'Asia',
-        fontes:'https://pt.wikipedia.org/wiki/Cristianismo_em_%C3%81frica',
-        dateCreated: '2021-02-18',
+        id: 3,
+        datePublished: '2021-07-28',
+        projeto: 'NOSSA LUTA NÃO É CONTRA CARNE OU SANGUE',
+        categoria: 'Testemunho',
+        fontes:'https://unsplash.com/@adisaktijrs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText',
+        dateCreated: '2021-07-28',
         dateModified: '2021-02-18',
-        img: './../assets/img/portfolio/img2.jpg',
-        img2: './../assets/img/portfolio/img2.jpg',
+        img: '3-thumbnail-adi-sakti-hGjOfQQUPIw-unsplash.png',
+        img2: '3 adi-sakti-hGjOfQQUPIw-unsplash.PNG',
         keywords: 'Obra Missionária, missões, mulçumanos',
-        title: 'TRABALHANDO A TERRA DO CORAÇÃO 2',
+        title: 'NOSSA LUTA NÃO É CONTRA CARNE OU SANGUE',
         title2: 'Um Povo Mulçumano',
         articleBody:
-          'teste',
+          '<p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Há alguns
+          anos, estou servindo ao Senhor entre grupos étnicos asiáticos. Eu sou uma jovem
+          </span><span style="mso-ascii-font-family:Arial;mso-ascii-theme-font:minor-bidi;
+          mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Arial;
+          mso-hansi-theme-font:minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:
+          minor-bidi;color:#222222;mso-fareast-language:PT-BR">latino-americana</span><span style="font-size:10.5pt;line-height:150%;mso-ascii-font-family:Arial;
+          mso-ascii-theme-font:minor-bidi;mso-fareast-font-family:&quot;Times New Roman&quot;;
+          mso-hansi-font-family:Arial;mso-hansi-theme-font:minor-bidi;mso-bidi-font-family:
+          Arial;mso-bidi-theme-font:minor-bidi;color:#222222;mso-fareast-language:PT-BR">
+          </span><span style="mso-ascii-font-family:Arial;mso-ascii-theme-font:minor-bidi;
+          mso-hansi-font-family:Arial;mso-hansi-theme-font:minor-bidi;mso-bidi-font-family:
+          Arial;mso-bidi-theme-font:minor-bidi">que, como muitos de meus colegas no
+          campo, enfrentou várias lutas e desafios, como o aprendizado da língua, cultura
+          e lutas espirituais.</span><span style="font-size:10.5pt;line-height:150%;
+          mso-ascii-font-family:Arial;mso-ascii-theme-font:minor-bidi;mso-fareast-font-family:
+          &quot;Times New Roman&quot;;mso-hansi-font-family:Arial;mso-hansi-theme-font:minor-bidi;
+          mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;color:#222222;
+          mso-fareast-language:PT-BR"><o:p></o:p></span></p>
+          
+          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Uma das
+          coisas mais notáveis é a diversidade cultural e linguística, uma vez que cada
+          ilha desta região tem a sua própria língua local, na maior parte do tempo
+          existindo apenas de forma oral. As pessoas são muito alegres, mas infelizmente
+          a atmosfera espiritual é muito pesada porque há muito sincretismo e, em alguns
+          casos, a religião muçulmana é misturada com outras crenças animistas.<o:p></o:p></span></p>
+          
+          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Louvo ao
+          Senhor pela oportunidade que ele me deu de aprender inglês no meu país, o que
+          facilita a comunicação e permite que eu sirva à comunidade. Agora estou
+          apoiando uma escola internacional e o inglês é a principal língua que falo no
+          dia a dia.<o:p></o:p></span></p>
+          
+          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Pude
+          estar com crianças ou famílias que querem aprender inglês e, embora sejam muito
+          tradicionais ou religiosos, temos podido nos conhecer melhor através dessa
+          experiência. Eu vejo isso como uma oportunidade para compartilhar o amor de
+          Jesus Cristo e sua obra redentora.<o:p></o:p></span></p>
+          
+          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Como eu
+          vi Deus operando no trabalho que fazemos localmente?<o:p></o:p></span></p>
+          
+          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Bem,
+          antes de chegar, eu disse que amava a todos, que era muito bom vir, mas quando
+          enfrentei a realidade da vida cotidiana, sabia que era necessário crescer,
+          colocar em prática os valores do Reino. O respeito é um sinal de amor, fazer
+          parte de uma comunidade mostra adaptação e aceitação de um grupo de pessoas. O
+          amor que existe em nós nasce de Deus, não das diferenças ou coisas em comum que
+          temos com as pessoas. Nós simplesmente os amamos porque Ele os ama.<o:p></o:p></span></p>
+          
+          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Quero
+          convidar outros jovens como eu para dar suas vidas ao serviço do Reino, não
+          olhando para as circunstâncias, mas ouvindo o Senhor e confiando em suas
+          promessas. Não deixe ninguém menosprezar sua juventude, nem mesmo você! Porque
+          tudo o que Deus nos permite aprender, Ele pode usá-lo para a extensão do Seu
+          Reino.<o:p></o:p></span></p>
+          
+          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Ore para
+          que Deus continue a se manifestar através das pessoas a quem servimos aqui,
+          para que cada um dos nossos alunos veja Jesus em nós. Que sejamos fiéis
+          seguidores de Jesus, abrigados na palma de sua mão.<o:p></o:p></span></p>
+          
+          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Peço-lhe
+          também que interceda para que todos os principados e poderes das trevas sejam
+          derrubados e que Sua luz dissipe todas as trevas, e que as pessoas tenham um
+          coração aberto e disposto a conhecê-lo.<o:p></o:p></span></p>
+          
+          <p class="MsoNormal" align="right" style="text-align:right"><span style="mso-ascii-font-family:
+          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Obreira
+          da PMI –Ásia<o:p></o:p></span></p>',
       },
       {
         id: 2,
