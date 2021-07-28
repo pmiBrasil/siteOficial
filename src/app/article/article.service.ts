@@ -21,7 +21,7 @@ export class ArticleService {
         img2: '',
         keywords: 'Obra Missionária, missões, mulçumanos,discipulado',
         title: 'TRABALHANDO A TERRA DO CORAÇÃO',
-        title2: 'Um Povo Mulçumano',
+        title2: 'TRABALHANDO A TERRA DO CORAÇÃO',
         articleBody: `<p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Nós somos
@@ -117,65 +117,65 @@ export class ArticleService {
         img: '2-thumbnail-rokas-skeivys-EILHSBnt6QI-unsplash.png',
         img2: '2 rokas-skeivys-EILHSBnt6QI-unsplash.PNG',
         keywords: 'Obra Missionária, missões, mulçumanos',
-        title: 'TRABALHANDO A TERRA DO CORAÇÃO  2',
-        title2: 'Um Povo Mulçumano',
+        title: 'EMBAIXADORES ONDE ESTIVERMOS',
+        title2: 'EMBAIXADORES ONDE ESTIVERMOS',
         articleBody:
         `<p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
-          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
-          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Há alguns
-          anos, o Senhor me chamou para servi-lo na Ásia e eu fui para o campo com a
-          oportunidade de estudar. Trabalhar para o Reino e, ao mesmo tempo, cursar
-          mestrado tem sido um grande desafio, pois se trata de estudar em uma língua
-          diferente da minha. Mas tem sido incrível tudo o que Deus fez, a maneira como
-          ele sempre me ajuda e todas as portas que Ele abriu para me permitir
-          compartilhar a Sua Palavra com muitas pessoas.<o:p></o:p></span></p>
-          
-          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
-          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
-          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">No começo
-          eu pensei que não seria capaz de resistir a tantos desafios, mas o Senhor me
-          lembrou da vida de Daniel e como Deus o capacitou a viver em uma cultura
-          diferente. Para a Sua glória, consegui completar o primeiro semestre com notas
-          extremamente satisfatórias. <o:p></o:p></span></p>
-          
-          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
-          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
-          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Alguns
-          momentos me encheram de alegria. Por exemplo, ver moças me perguntando porque
-          eu acredito em 'Isa' (Jesus); outras se aproximaram abrindo seus corações,
-          confessando pecados e pedindo ajuda. Outras pessoas ainda me perguntam por que
-          eu sou tão acolhedora para com elas. Aproveito cada oportunidade para
-          compartilhar sobre meu Bom Professor. Há sempre enormes possibilidades de
-          sermos fiéis testemunhas e embaixadores do Seu Reino.<o:p></o:p></span></p>
-          
-          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
-          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
-          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">O foco da
-          minha pesquisa para o próximo semestre é o de conhecer os fatores de risco que
-          causam a entrada no tráfico de seres humanos em uma ilha da região. Peço seu
-          apoio em oração pela provisão do Senhor para a realização desta investigação e
-          a orientação de Seu Espírito Santo sobre os passos no futuro.<o:p></o:p></span></p>
-          
-          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
-          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
-          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Convido
-          meus colegas leitores a colocarem suas profissões diante do Senhor a fim de
-          trazer ainda mais glória ao Seu nome e, por sua vez, trazer esperança e
-          liberdade através de Jesus a vidas que tanto necessitam dele. Sempre há
-          possibilidades e portas abertas para trabalhar em Sua missão. Se ele está
-          chamando você, aproveite para "aprender e crescer no campo
-          profissional", continue a preparar-se, e junte-se aos projetos e
-          possibilidades de serviço nesta região.<o:p></o:p></span></p>
-          
-          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
-          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
-          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Vamos ser
-          seus embaixadores onde quer que estejamos!<o:p></o:p></span></p>
-          
-          <p class="MsoNormal" align="right" style="text-align:right"><span style="mso-ascii-font-family:
-          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
-          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Obreira
-          da PMI – Ásia</span></p>`,
+        Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+        minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Há alguns
+        anos, o Senhor me chamou para servi-lo na Ásia e eu fui para o campo com a
+        oportunidade de estudar. Trabalhar para o Reino e, ao mesmo tempo, cursar
+        mestrado tem sido um grande desafio, pois se trata de estudar em uma língua
+        diferente da minha. Mas tem sido incrível tudo o que Deus fez, a maneira como
+        ele sempre me ajuda e todas as portas que Ele abriu para me permitir
+        compartilhar a Sua Palavra com muitas pessoas.<o:p></o:p></span></p>
+        
+        <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+        Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+        minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">No começo
+        eu pensei que não seria capaz de resistir a tantos desafios, mas o Senhor me
+        lembrou da vida de Daniel e como Deus o capacitou a viver em uma cultura
+        diferente. Para a Sua glória, consegui completar o primeiro semestre com notas
+        extremamente satisfatórias. <o:p></o:p></span></p>
+        
+        <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+        Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+        minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Alguns
+        momentos me encheram de alegria. Por exemplo, ver moças me perguntando porque
+        eu acredito em 'Isa' (Jesus); outras se aproximaram abrindo seus corações,
+        confessando pecados e pedindo ajuda. Outras pessoas ainda me perguntam por que
+        eu sou tão acolhedora para com elas. Aproveito cada oportunidade para
+        compartilhar sobre meu Bom Professor. Há sempre enormes possibilidades de
+        sermos fiéis testemunhas e embaixadores do Seu Reino.<o:p></o:p></span></p>
+        
+        <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+        Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+        minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">O foco da
+        minha pesquisa para o próximo semestre é o de conhecer os fatores de risco que
+        causam a entrada no tráfico de seres humanos em uma ilha da região. Peço seu
+        apoio em oração pela provisão do Senhor para a realização desta investigação e
+        a orientação de Seu Espírito Santo sobre os passos no futuro.<o:p></o:p></span></p>
+        
+        <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+        Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+        minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Convido
+        meus colegas leitores a colocarem suas profissões diante do Senhor a fim de
+        trazer ainda mais glória ao Seu nome e, por sua vez, trazer esperança e
+        liberdade através de Jesus a vidas que tanto necessitam dele. Sempre há
+        possibilidades e portas abertas para trabalhar em Sua missão. Se ele está
+        chamando você, aproveite para "aprender e crescer no campo
+        profissional", continue a preparar-se, e junte-se aos projetos e
+        possibilidades de serviço nesta região.<o:p></o:p></span></p>
+        
+        <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+        Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+        minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Vamos ser
+        seus embaixadores onde quer que estejamos!<o:p></o:p></span></p>
+        
+        <p class="MsoNormal" align="right" style="text-align:right"><span style="mso-ascii-font-family:
+        Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+        minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Obreira
+        da PMI – Ásia<o:p></o:p></span></p>`,
       },
       {
         id: 3,
@@ -185,130 +185,169 @@ export class ArticleService {
         fontes:'https://unsplash.com/@adisaktijrs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText',
         dateCreated: '2021-07-28',
         dateModified: '2021-02-18',
-        img: '3-thumbnail-adi-sakti-hGjOfQQUPIw-unsplash.png',
-        img2: '3 adi-sakti-hGjOfQQUPIw-unsplash.PNG',
+        img: './../assets/img/portfolio/3-thumbnail-adi-sakti-hGjOfQQUPIw-unsplash.png',
+        img2: '',
         keywords: 'Obra Missionária, missões, mulçumanos',
         title: 'NOSSA LUTA NÃO É CONTRA CARNE OU SANGUE',
-        title2: 'Um Povo Mulçumano',
+        title2: 'NOSSA LUTA NÃO É CONTRA CARNE OU SANGUE',
         articleBody:
         `<p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
-          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
-          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Há alguns
-          anos, estou servindo ao Senhor entre grupos étnicos asiáticos. Eu sou uma jovem
-          </span><span style="mso-ascii-font-family:Arial;mso-ascii-theme-font:minor-bidi;
-          mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Arial;
-          mso-hansi-theme-font:minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:
-          minor-bidi;color:#222222;mso-fareast-language:PT-BR">latino-americana</span><span style="font-size:10.5pt;line-height:150%;mso-ascii-font-family:Arial;
-          mso-ascii-theme-font:minor-bidi;mso-fareast-font-family:&quot;Times New Roman&quot;;
-          mso-hansi-font-family:Arial;mso-hansi-theme-font:minor-bidi;mso-bidi-font-family:
-          Arial;mso-bidi-theme-font:minor-bidi;color:#222222;mso-fareast-language:PT-BR">
-          </span><span style="mso-ascii-font-family:Arial;mso-ascii-theme-font:minor-bidi;
-          mso-hansi-font-family:Arial;mso-hansi-theme-font:minor-bidi;mso-bidi-font-family:
-          Arial;mso-bidi-theme-font:minor-bidi">que, como muitos de meus colegas no
-          campo, enfrentou várias lutas e desafios, como o aprendizado da língua, cultura
-          e lutas espirituais.</span><span style="font-size:10.5pt;line-height:150%;
-          mso-ascii-font-family:Arial;mso-ascii-theme-font:minor-bidi;mso-fareast-font-family:
-          &quot;Times New Roman&quot;;mso-hansi-font-family:Arial;mso-hansi-theme-font:minor-bidi;
-          mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;color:#222222;
-          mso-fareast-language:PT-BR"><o:p></o:p></span></p>
-          
-          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
-          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
-          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Uma das
-          coisas mais notáveis é a diversidade cultural e linguística, uma vez que cada
-          ilha desta região tem a sua própria língua local, na maior parte do tempo
-          existindo apenas de forma oral. As pessoas são muito alegres, mas infelizmente
-          a atmosfera espiritual é muito pesada porque há muito sincretismo e, em alguns
-          casos, a religião muçulmana é misturada com outras crenças animistas.<o:p></o:p></span></p>
-          
-          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
-          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
-          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Louvo ao
-          Senhor pela oportunidade que ele me deu de aprender inglês no meu país, o que
-          facilita a comunicação e permite que eu sirva à comunidade. Agora estou
-          apoiando uma escola internacional e o inglês é a principal língua que falo no
-          dia a dia.<o:p></o:p></span></p>
-          
-          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
-          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
-          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Pude
-          estar com crianças ou famílias que querem aprender inglês e, embora sejam muito
-          tradicionais ou religiosos, temos podido nos conhecer melhor através dessa
-          experiência. Eu vejo isso como uma oportunidade para compartilhar o amor de
-          Jesus Cristo e sua obra redentora.<o:p></o:p></span></p>
-          
-          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
-          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
-          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Como eu
-          vi Deus operando no trabalho que fazemos localmente?<o:p></o:p></span></p>
-          
-          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
-          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
-          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Bem,
-          antes de chegar, eu disse que amava a todos, que era muito bom vir, mas quando
-          enfrentei a realidade da vida cotidiana, sabia que era necessário crescer,
-          colocar em prática os valores do Reino. O respeito é um sinal de amor, fazer
-          parte de uma comunidade mostra adaptação e aceitação de um grupo de pessoas. O
-          amor que existe em nós nasce de Deus, não das diferenças ou coisas em comum que
-          temos com as pessoas. Nós simplesmente os amamos porque Ele os ama.<o:p></o:p></span></p>
-          
-          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
-          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
-          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Quero
-          convidar outros jovens como eu para dar suas vidas ao serviço do Reino, não
-          olhando para as circunstâncias, mas ouvindo o Senhor e confiando em suas
-          promessas. Não deixe ninguém menosprezar sua juventude, nem mesmo você! Porque
-          tudo o que Deus nos permite aprender, Ele pode usá-lo para a extensão do Seu
-          Reino.<o:p></o:p></span></p>
-          
-          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
-          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
-          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Ore para
-          que Deus continue a se manifestar através das pessoas a quem servimos aqui,
-          para que cada um dos nossos alunos veja Jesus em nós. Que sejamos fiéis
-          seguidores de Jesus, abrigados na palma de sua mão.<o:p></o:p></span></p>
-          
-          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
-          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
-          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Peço-lhe
-          também que interceda para que todos os principados e poderes das trevas sejam
-          derrubados e que Sua luz dissipe todas as trevas, e que as pessoas tenham um
-          coração aberto e disposto a conhecê-lo.<o:p></o:p></span></p>
-          
-          <p class="MsoNormal" align="right" style="text-align:right"><span style="mso-ascii-font-family:
-          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
-          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Obreira
-          da PMI –Ásia<o:p></o:p></span></p>`,
+        Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+        minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Há alguns
+        anos, estou servindo ao Senhor entre grupos étnicos asiáticos. Eu sou uma jovem
+        </span><span style="mso-ascii-font-family:Arial;mso-ascii-theme-font:minor-bidi;
+        mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Arial;
+        mso-hansi-theme-font:minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:
+        minor-bidi;color:#222222;mso-fareast-language:PT-BR">latino-americana</span><span style="font-size:10.5pt;line-height:150%;mso-ascii-font-family:Arial;
+        mso-ascii-theme-font:minor-bidi;mso-fareast-font-family:&quot;Times New Roman&quot;;
+        mso-hansi-font-family:Arial;mso-hansi-theme-font:minor-bidi;mso-bidi-font-family:
+        Arial;mso-bidi-theme-font:minor-bidi;color:#222222;mso-fareast-language:PT-BR">
+        </span><span style="mso-ascii-font-family:Arial;mso-ascii-theme-font:minor-bidi;
+        mso-hansi-font-family:Arial;mso-hansi-theme-font:minor-bidi;mso-bidi-font-family:
+        Arial;mso-bidi-theme-font:minor-bidi">que, como muitos de meus colegas no
+        campo, enfrentou várias lutas e desafios, como o aprendizado da língua, cultura
+        e lutas espirituais.</span><span style="font-size:10.5pt;line-height:150%;
+        mso-ascii-font-family:Arial;mso-ascii-theme-font:minor-bidi;mso-fareast-font-family:
+        &quot;Times New Roman&quot;;mso-hansi-font-family:Arial;mso-hansi-theme-font:minor-bidi;
+        mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;color:#222222;
+        mso-fareast-language:PT-BR"><o:p></o:p></span></p>
+        
+        <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+        Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+        minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Uma das
+        coisas mais notáveis é a diversidade cultural e linguística, uma vez que cada
+        ilha desta região tem a sua própria língua local, na maior parte do tempo
+        existindo apenas de forma oral. As pessoas são muito alegres, mas infelizmente
+        a atmosfera espiritual é muito pesada porque há muito sincretismo e, em alguns
+        casos, a religião muçulmana é misturada com outras crenças animistas.<o:p></o:p></span></p>
+        
+        <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+        Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+        minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Louvo ao
+        Senhor pela oportunidade que ele me deu de aprender inglês no meu país, o que
+        facilita a comunicação e permite que eu sirva à comunidade. Agora estou
+        apoiando uma escola internacional e o inglês é a principal língua que falo no
+        dia a dia.<o:p></o:p></span></p>
+        
+        <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+        Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+        minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Pude
+        estar com crianças ou famílias que querem aprender inglês e, embora sejam muito
+        tradicionais ou religiosos, temos podido nos conhecer melhor através dessa
+        experiência. Eu vejo isso como uma oportunidade para compartilhar o amor de
+        Jesus Cristo e sua obra redentora.<o:p></o:p></span></p>
+        
+        <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+        Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+        minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Como eu
+        vi Deus operando no trabalho que fazemos localmente?<o:p></o:p></span></p>
+        
+        <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+        Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+        minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Bem,
+        antes de chegar, eu disse que amava a todos, que era muito bom vir, mas quando
+        enfrentei a realidade da vida cotidiana, sabia que era necessário crescer,
+        colocar em prática os valores do Reino. O respeito é um sinal de amor, fazer
+        parte de uma comunidade mostra adaptação e aceitação de um grupo de pessoas. O
+        amor que existe em nós nasce de Deus, não das diferenças ou coisas em comum que
+        temos com as pessoas. Nós simplesmente os amamos porque Ele os ama.<o:p></o:p></span></p>
+        
+        <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+        Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+        minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Quero
+        convidar outros jovens como eu para dar suas vidas ao serviço do Reino, não
+        olhando para as circunstâncias, mas ouvindo o Senhor e confiando em suas
+        promessas. Não deixe ninguém menosprezar sua juventude, nem mesmo você! Porque
+        tudo o que Deus nos permite aprender, Ele pode usá-lo para a extensão do Seu
+        Reino.<o:p></o:p></span></p>
+        
+        <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+        Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+        minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Ore para
+        que Deus continue a se manifestar através das pessoas a quem servimos aqui,
+        para que cada um dos nossos alunos veja Jesus em nós. Que sejamos fiéis
+        seguidores de Jesus, abrigados na palma de sua mão.<o:p></o:p></span></p>
+        
+        <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+        Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+        minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Peço-lhe
+        também que interceda para que todos os principados e poderes das trevas sejam
+        derrubados e que Sua luz dissipe todas as trevas, e que as pessoas tenham um
+        coração aberto e disposto a conhecê-lo.<o:p></o:p></span></p>
+        
+        <p class="MsoNormal" align="right" style="text-align:right"><span style="mso-ascii-font-family:
+        Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+        minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Obreira
+        da PMI –Ásia<o:p></o:p></span></p>`,
       },
       {
-        id: 2,
-        datePublished: '2021-02-18',
-        projeto: 'nome do projeto',
-        categoria: 'Asia',
-        fontes:'https://pt.wikipedia.org/wiki/Cristianismo_em_%C3%81frica',
-        dateCreated: '2021-02-18',
+        id: 4,
+        datePublished: '2021-07-28',
+        projeto: 'AMOR E SERVIÇO',
+        categoria: 'Testemunho',
+        fontes:'https://unsplash.com/@jeshoots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText',
+        dateCreated: '2021-07-28',
         dateModified: '2021-02-18',
-        img: './../assets/img/portfolio/img2.jpg',
-        img2: './../assets/img/portfolio/img2.jpg',
+        img: './../assets/img/portfolio/4-thumbnail-you-x-ventures-tHO1_OuKbg0-unsplash.png',
+        img2: '',
         keywords: 'Obra Missionária, missões, mulçumanos',
-        title: 'TRABALHANDO A TERRA DO CORAÇÃO 2',
-        title2: 'Um Povo Mulçumano',
+        title: 'AMOR E SERVIÇO',
+        title2: 'AMOR E SERVIÇO',
         articleBody:
-          'teste',
+        `<p class="MsoCaption" style="text-align:justify;line-height:150%"><span style="font-size:12.0pt;line-height:150%;color:windowtext;font-weight:normal">Há
+        mais de dez anos, fui desafiada pelo Senhor a atravessar a fronteira do meu
+        conforto e servi-Lo no meio dos povos muçulmanos no norte da África. A
+        princípio, não entendi como eu poderia servir em um contexto novo e diferente
+        de tudo o que conhecia. A primeira fronteira que tive que atravessar foi a de
+        minha própria mente, o que abriu a porta para eu usar minha amada profissão
+        como um serviço para aqueles que sofrem sem Cristo, e muitas vezes são
+        rejeitados por causa de suas dificuldades e limitações. E então ajuda-los a
+        atravessar uma fronteira espiritual.<o:p></o:p></span></p>
+        
+        <p class="MsoCaption" style="text-align:justify;line-height:150%"><span style="font-size:12.0pt;line-height:150%;color:windowtext;font-weight:normal">Sou
+        fonoaudióloga especialista em deficiências e desde 2010 trabalho na organização
+        PMI desenvolvendo projetos que acompanham, equipam e discipulam mães de pessoas
+        com necessidades especiais. No meio de contextos em que a deficiência pode
+        adicionar um grande fardo de culpa e vergonha, vemos o amor de Deus e o poder
+        dignificante do Evangelho trabalhando e transformando vidas.<o:p></o:p></span></p>
+        
+        <p class="MsoCaption" style="text-align:justify;line-height:150%"><span style="font-size:12.0pt;line-height:150%;color:windowtext;font-weight:normal">Em
+        todos esses anos servindo entre essas pessoas preciosas, aprendi que o
+        "amor expressado no serviço" é uma ferramenta muito poderosa.
+        Descobri que, como meu querido pastor ensina, a fronteira da "falta de
+        fé" em direção à verdadeira fé é atravessada por meio desse amor
+        expressado no serviço ao outro. Tive o tremendo privilégio de ver muitos
+        atravessarem essa fronteira espiritual. Hoje, como mulher, quero glorificar o
+        Nome do Senhor por tudo o que vivi até aqui e incentivá-la, mulher de Deus, a
+        ouvir a voz de Deus que lhe diz: “Levante-se, resplandece! Porque chegou a sua
+        luz, e a glória do SENHOR raia sobre você.” Is.60:1<o:p></o:p></span></p>
+        
+        <p class="MsoCaption" style="text-align:justify;line-height:150%"><span style="font-size:12.0pt;line-height:150%;color:windowtext;font-weight:normal">Parabenizo
+        e abençoo todas as mulheres de Deus que são tochas que iluminam as trevas desta
+        terra.<o:p></o:p></span></p>
+        
+        <p class="MsoCaption" style="text-align:justify;line-height:150%"><span style="font-size:12.0pt;line-height:150%;color:windowtext;font-weight:normal">Oremos
+        ao Senhor pelas mulheres que servem no campo missionário, e para que Deus
+        continue abrindo portas para colocarmos os dons e talentos dados por Ele a Seu
+        serviço, e, assim, compartilharmos seu Evangelho entre as pessoas do país onde
+        vivamos. Que Ele nos encha de graça, amor, paciência, sabedoria, autoridade e
+        seu respaldo diante daqueles que nos rodeiam.<o:p></o:p></span></p>
+        
+        <p class="MsoCaption" align="right" style="text-align:right;line-height:150%"><span style="font-size:12.0pt;line-height:150%;color:windowtext;font-weight:normal"><span style="mso-spacerun:yes">&nbsp;</span>Obreira da PMI – África<o:p></o:p></span></p>`,
       },
       {
-        id: 2,
-        datePublished: '2021-02-18',
-        projeto: 'nome do projeto',
-        categoria: 'Asia',
-        fontes:'https://pt.wikipedia.org/wiki/Cristianismo_em_%C3%81frica',
-        dateCreated: '2021-02-18',
+        id: 5,
+        datePublished: '2021-07-28',
+        projeto: 'AMOR E SERVIÇO',
+        categoria: 'Testemunho',
+        fontes:'https://unsplash.com/@jeshoots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText',
+        dateCreated: '2021-07-28',
         dateModified: '2021-02-18',
-        img: './../assets/img/portfolio/img2.jpg',
-        img2: './../assets/img/portfolio/img2.jpg',
+        img: './../assets/img/portfolio/4-thumbnail-you-x-ventures-tHO1_OuKbg0-unsplash.png',
+        img2: '',
         keywords: 'Obra Missionária, missões, mulçumanos',
-        title: 'TRABALHANDO A TERRA DO CORAÇÃO 2',
-        title2: 'Um Povo Mulçumano',
+        title: 'AMOR E SERVIÇO',
+        title2: 'AMOR E SERVIÇO',
         articleBody:
           'teste',
       },
