@@ -17,8 +17,8 @@ export class ArticleService {
         projeto: 'TRABALHANDO A TERRA DO CORAÇÃO',
         categoria: 'Testemunho',
         fontes:'https://unsplash.com/@mihaisurdu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText',
-        img: '',
-        img2: './../assets/img/portfolio/1 mihai-surdu-1w0aqsMs-OU-unsplash.PNG',
+        img: './../assets/img/portfolio/1-thumbnail-mihai-surdu-1w0aqsMs-OU-unsplash.png',
+        img2: '',
         keywords: 'Obra Missionária, missões, mulçumanos,discipulado',
         title: 'TRABALHANDO A TERRA DO CORAÇÃO',
         title2: 'Um Povo Mulçumano',
@@ -105,6 +105,77 @@ export class ArticleService {
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Obreiros
         de PMI - Ásia<o:p></o:p></span></p>`,
+      },
+      {
+        id: 2,
+        datePublished: '2021-07-28',
+        projeto: 'EMBAIXADORES ONDE ESTIVERMOS',
+        categoria: 'Testemunho',
+        fontes:'https://unsplash.com/@skvrck?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText',
+        dateCreated: '2021-07-28',
+        dateModified: '2021-07-28',
+        img: '2-thumbnail-rokas-skeivys-EILHSBnt6QI-unsplash.png',
+        img2: '2 rokas-skeivys-EILHSBnt6QI-unsplash.PNG',
+        keywords: 'Obra Missionária, missões, mulçumanos',
+        title: 'TRABALHANDO A TERRA DO CORAÇÃO  2',
+        title2: 'Um Povo Mulçumano',
+        articleBody:
+          '<p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Há alguns
+          anos, o Senhor me chamou para servi-lo na Ásia e eu fui para o campo com a
+          oportunidade de estudar. Trabalhar para o Reino e, ao mesmo tempo, cursar
+          mestrado tem sido um grande desafio, pois se trata de estudar em uma língua
+          diferente da minha. Mas tem sido incrível tudo o que Deus fez, a maneira como
+          ele sempre me ajuda e todas as portas que Ele abriu para me permitir
+          compartilhar a Sua Palavra com muitas pessoas.<o:p></o:p></span></p>
+          
+          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">No começo
+          eu pensei que não seria capaz de resistir a tantos desafios, mas o Senhor me
+          lembrou da vida de Daniel e como Deus o capacitou a viver em uma cultura
+          diferente. Para a Sua glória, consegui completar o primeiro semestre com notas
+          extremamente satisfatórias. <o:p></o:p></span></p>
+          
+          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Alguns
+          momentos me encheram de alegria. Por exemplo, ver moças me perguntando porque
+          eu acredito em 'Isa' (Jesus); outras se aproximaram abrindo seus corações,
+          confessando pecados e pedindo ajuda. Outras pessoas ainda me perguntam por que
+          eu sou tão acolhedora para com elas. Aproveito cada oportunidade para
+          compartilhar sobre meu Bom Professor. Há sempre enormes possibilidades de
+          sermos fiéis testemunhas e embaixadores do Seu Reino.<o:p></o:p></span></p>
+          
+          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">O foco da
+          minha pesquisa para o próximo semestre é o de conhecer os fatores de risco que
+          causam a entrada no tráfico de seres humanos em uma ilha da região. Peço seu
+          apoio em oração pela provisão do Senhor para a realização desta investigação e
+          a orientação de Seu Espírito Santo sobre os passos no futuro.<o:p></o:p></span></p>
+          
+          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Convido
+          meus colegas leitores a colocarem suas profissões diante do Senhor a fim de
+          trazer ainda mais glória ao Seu nome e, por sua vez, trazer esperança e
+          liberdade através de Jesus a vidas que tanto necessitam dele. Sempre há
+          possibilidades e portas abertas para trabalhar em Sua missão. Se ele está
+          chamando você, aproveite para "aprender e crescer no campo
+          profissional", continue a preparar-se, e junte-se aos projetos e
+          possibilidades de serviço nesta região.<o:p></o:p></span></p>
+          
+          <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Vamos ser
+          seus embaixadores onde quer que estejamos!<o:p></o:p></span></p>
+          
+          <p class="MsoNormal" align="right" style="text-align:right"><span style="mso-ascii-font-family:
+          Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
+          minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Obreira
+          da PMI – Ásia</span></p>',
       },
       {
         id: 2,
