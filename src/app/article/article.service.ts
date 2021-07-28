@@ -120,7 +120,7 @@ export class ArticleService {
         title: 'TRABALHANDO A TERRA DO CORAÇÃO  2',
         title2: 'Um Povo Mulçumano',
         articleBody:
-          '<p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+        `<p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
           Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
           minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Há alguns
           anos, o Senhor me chamou para servi-lo na Ásia e eu fui para o campo com a
@@ -175,7 +175,7 @@ export class ArticleService {
           <p class="MsoNormal" align="right" style="text-align:right"><span style="mso-ascii-font-family:
           Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
           minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Obreira
-          da PMI – Ásia</span></p>',
+          da PMI – Ásia</span></p>`,
       },
       {
         id: 3,
@@ -191,7 +191,7 @@ export class ArticleService {
         title: 'NOSSA LUTA NÃO É CONTRA CARNE OU SANGUE',
         title2: 'Um Povo Mulçumano',
         articleBody:
-          '<p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
+        `<p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
           Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
           minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Há alguns
           anos, estou servindo ao Senhor entre grupos étnicos asiáticos. Eu sou uma jovem
@@ -278,7 +278,7 @@ export class ArticleService {
           <p class="MsoNormal" align="right" style="text-align:right"><span style="mso-ascii-font-family:
           Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
           minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Obreira
-          da PMI –Ásia<o:p></o:p></span></p>',
+          da PMI –Ásia<o:p></o:p></span></p>`,
       },
       {
         id: 2,
