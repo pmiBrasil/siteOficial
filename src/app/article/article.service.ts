@@ -17,7 +17,7 @@ export class ArticleService {
         projeto: 'TRABALHANDO A TERRA DO CORAÇÃO',
         categoria: 'Testemunho',
         fontes:'https://unsplash.com/@mihaisurdu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText',
-        img: './../assets/img/portfolio/1-thumbnail-mihai-surdu-1w0aqsMs-OU-unsplash.png',
+        img: '',
         img2: './../assets/img/portfolio/1 mihai-surdu-1w0aqsMs-OU-unsplash.PNG',
         keywords: 'Obra Missionária, missões, mulçumanos,discipulado',
         title: 'TRABALHANDO A TERRA DO CORAÇÃO',
