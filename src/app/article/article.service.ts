@@ -17,7 +17,7 @@ export class ArticleService {
         projeto: 'TRABALHANDO A TERRA DO CORAÇÃO',
         categoria: 'Testemunho',
         fontes:'https://unsplash.com/@mihaisurdu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText',
-        img: './../assets/img/portfolio/1-thumbnail-rokas-skeivys-EILHSBnt6QI-unsplash.png',
+        img: './../assets/img/portfolio/1-thumbnail-mihai-surdu-1w0aqsMs-OU-unsplash.png',
         img2: '',
         keywords: 'Obra Missionária, missões, mulçumanos,discipulado',
         title: 'TRABALHANDO A TERRA DO CORAÇÃO',
@@ -35,13 +35,13 @@ export class ArticleService {
         uma montanha. O projeto dá emprego a mais de vinte famílias das comunidades
         próximas à esta montanha. Estas famílias, em sua maioria, vivem com recursos
         muito escassos. <o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Deus nos
         deu o privilégio de ser a primeira família latina a viver nesta área, mas tem
         sido um desafio ser os únicos estrangeiros entre 7 milhões de habitantes.<o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Na área
@@ -51,7 +51,7 @@ export class ArticleService {
         mais intolerante ao cristianismo no país. Portanto, não fomos muito bem
         recebidos e experimentamos a rejeição da comunidade, que constantemente nos
         evitava e nos negava a venda de alimentos.<o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">As
@@ -62,7 +62,7 @@ export class ArticleService {
         todas as situações de perigo. Nós realmente vimos à mão de Deus agindo em todos
         os momentos com milagres após milagres. Sua justiça supera tudo e seu apoio é
         evidente em nossas vidas.<o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Damos
@@ -73,7 +73,7 @@ export class ArticleService {
         graças diante das pessoas. Temos sido capazes de conhecer mais sobre a
         comunidade, aprender sobre a sua cultura preciosa, cheia de cor, sabores
         incríveis e alegria em todos os cantos.<o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Deus nos
@@ -81,7 +81,7 @@ export class ArticleService {
         famílias sedentas dele, testemunhando a conversão de almas famintas que tomaram
         este passo de fé. Louvamos ao Pai pelo que ele está fazendo e pelo que ele
         fará!<o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Mesmo que
@@ -90,7 +90,7 @@ export class ArticleService {
         mensagem seja um dos muitos que estão sendo chamados pelo Senhor para deixar
         tudo e ir ao campo, investindo sua vida para que, naquele grande dia, tenhamos
         o privilégio de ver mais e mais asiáticos louvando nosso Rei.<o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Ore para
@@ -100,7 +100,7 @@ export class ArticleService {
         comunidade de fé e trabalhadores dispostos a servir na Ásia, já que há muita
         necessidade e muito poucos trabalhadores. Peçamos que os corações dos
         habitantes desta região sejam terras férteis para receber a Palavra do Senhor.<o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" align="right" style="text-align:right"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Obreiros
@@ -129,7 +129,7 @@ export class ArticleService {
         diferente da minha. Mas tem sido incrível tudo o que Deus fez, a maneira como
         ele sempre me ajuda e todas as portas que Ele abriu para me permitir
         compartilhar a Sua Palavra com muitas pessoas.<o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">No começo
@@ -137,7 +137,7 @@ export class ArticleService {
         lembrou da vida de Daniel e como Deus o capacitou a viver em uma cultura
         diferente. Para a Sua glória, consegui completar o primeiro semestre com notas
         extremamente satisfatórias. <o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Alguns
@@ -147,7 +147,7 @@ export class ArticleService {
         eu sou tão acolhedora para com elas. Aproveito cada oportunidade para
         compartilhar sobre meu Bom Professor. Há sempre enormes possibilidades de
         sermos fiéis testemunhas e embaixadores do Seu Reino.<o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">O foco da
@@ -155,7 +155,7 @@ export class ArticleService {
         causam a entrada no tráfico de seres humanos em uma ilha da região. Peço seu
         apoio em oração pela provisão do Senhor para a realização desta investigação e
         a orientação de Seu Espírito Santo sobre os passos no futuro.<o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Convido
@@ -166,12 +166,12 @@ export class ArticleService {
         chamando você, aproveite para "aprender e crescer no campo
         profissional", continue a preparar-se, e junte-se aos projetos e
         possibilidades de serviço nesta região.<o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Vamos ser
         seus embaixadores onde quer que estejamos!<o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" align="right" style="text-align:right"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Obreira
@@ -211,7 +211,7 @@ export class ArticleService {
         &quot;Times New Roman&quot;;mso-hansi-font-family:Arial;mso-hansi-theme-font:minor-bidi;
         mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;color:#222222;
         mso-fareast-language:PT-BR"><o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Uma das
@@ -220,7 +220,7 @@ export class ArticleService {
         existindo apenas de forma oral. As pessoas são muito alegres, mas infelizmente
         a atmosfera espiritual é muito pesada porque há muito sincretismo e, em alguns
         casos, a religião muçulmana é misturada com outras crenças animistas.<o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Louvo ao
@@ -228,7 +228,7 @@ export class ArticleService {
         facilita a comunicação e permite que eu sirva à comunidade. Agora estou
         apoiando uma escola internacional e o inglês é a principal língua que falo no
         dia a dia.<o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Pude
@@ -236,12 +236,12 @@ export class ArticleService {
         tradicionais ou religiosos, temos podido nos conhecer melhor através dessa
         experiência. Eu vejo isso como uma oportunidade para compartilhar o amor de
         Jesus Cristo e sua obra redentora.<o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Como eu
         vi Deus operando no trabalho que fazemos localmente?<o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Bem,
@@ -251,7 +251,7 @@ export class ArticleService {
         parte de uma comunidade mostra adaptação e aceitação de um grupo de pessoas. O
         amor que existe em nós nasce de Deus, não das diferenças ou coisas em comum que
         temos com as pessoas. Nós simplesmente os amamos porque Ele os ama.<o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Quero
@@ -260,21 +260,21 @@ export class ArticleService {
         promessas. Não deixe ninguém menosprezar sua juventude, nem mesmo você! Porque
         tudo o que Deus nos permite aprender, Ele pode usá-lo para a extensão do Seu
         Reino.<o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Ore para
         que Deus continue a se manifestar através das pessoas a quem servimos aqui,
         para que cada um dos nossos alunos veja Jesus em nós. Que sejamos fiéis
         seguidores de Jesus, abrigados na palma de sua mão.<o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Peço-lhe
         também que interceda para que todos os principados e poderes das trevas sejam
         derrubados e que Sua luz dissipe todas as trevas, e que as pessoas tenham um
         coração aberto e disposto a conhecê-lo.<o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" align="right" style="text-align:right"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Obreira
@@ -303,14 +303,14 @@ export class ArticleService {
         como um serviço para aqueles que sofrem sem Cristo, e muitas vezes são
         rejeitados por causa de suas dificuldades e limitações. E então ajuda-los a
         atravessar uma fronteira espiritual.<o:p></o:p></span></p>
-        
+
         <p class="MsoCaption" style="text-align:justify;line-height:150%"><span style="font-size:12.0pt;line-height:150%;color:windowtext;font-weight:normal">Sou
         fonoaudióloga especialista em deficiências e desde 2010 trabalho na organização
         PMI desenvolvendo projetos que acompanham, equipam e discipulam mães de pessoas
         com necessidades especiais. No meio de contextos em que a deficiência pode
         adicionar um grande fardo de culpa e vergonha, vemos o amor de Deus e o poder
         dignificante do Evangelho trabalhando e transformando vidas.<o:p></o:p></span></p>
-        
+
         <p class="MsoCaption" style="text-align:justify;line-height:150%"><span style="font-size:12.0pt;line-height:150%;color:windowtext;font-weight:normal">Em
         todos esses anos servindo entre essas pessoas preciosas, aprendi que o
         "amor expressado no serviço" é uma ferramenta muito poderosa.
@@ -321,18 +321,18 @@ export class ArticleService {
         Nome do Senhor por tudo o que vivi até aqui e incentivá-la, mulher de Deus, a
         ouvir a voz de Deus que lhe diz: “Levante-se, resplandece! Porque chegou a sua
         luz, e a glória do SENHOR raia sobre você.” Is.60:1<o:p></o:p></span></p>
-        
+
         <p class="MsoCaption" style="text-align:justify;line-height:150%"><span style="font-size:12.0pt;line-height:150%;color:windowtext;font-weight:normal">Parabenizo
         e abençoo todas as mulheres de Deus que são tochas que iluminam as trevas desta
         terra.<o:p></o:p></span></p>
-        
+
         <p class="MsoCaption" style="text-align:justify;line-height:150%"><span style="font-size:12.0pt;line-height:150%;color:windowtext;font-weight:normal">Oremos
         ao Senhor pelas mulheres que servem no campo missionário, e para que Deus
         continue abrindo portas para colocarmos os dons e talentos dados por Ele a Seu
         serviço, e, assim, compartilharmos seu Evangelho entre as pessoas do país onde
         vivamos. Que Ele nos encha de graça, amor, paciência, sabedoria, autoridade e
         seu respaldo diante daqueles que nos rodeiam.<o:p></o:p></span></p>
-        
+
         <p class="MsoCaption" align="right" style="text-align:right;line-height:150%"><span style="font-size:12.0pt;line-height:150%;color:windowtext;font-weight:normal"><span style="mso-spacerun:yes">&nbsp;</span>Obreira da PMI – África<o:p></o:p></span></p>`,
       },
       {
@@ -356,12 +356,12 @@ export class ArticleService {
         saúde que estão lutando contra o corona vírus. A Espanha é o país com mais
         profissionais de saúde infectados, acima de outros que estão sofrendo com o
         COVID-19.<o:p></o:p></span></p>
-        
+
         <p class="MsoCaption" style="text-align:justify;line-height:150%"><span style="font-size:12.0pt;line-height:150%;color:windowtext;font-weight:normal">A
         falta de material nos centros continua alarmante. Há alguns dias, profissionais
         do Hospital Gregorio Marañón, em Madri, e do Príncipe das Astúrias, de Alcalá
         de Henares, usavam sacos de lixo para se protegerem.<o:p></o:p></span></p>
-        
+
         <p class="MsoCaption" style="text-align:justify;line-height:150%"><span style="font-size:12.0pt;line-height:150%;color:windowtext;font-weight:normal">Nesse
         cenário de calamidade, os hospitais de Granada buscaram ajuda da comunidade.
         Eles procuraram várias escolas de costura em busca do apoio de costureiras e
@@ -369,45 +369,45 @@ export class ArticleService {
         dons e talentos, juntou-se a centenas de outras pessoas da cidade, e está
         passando horas do dia costurando máscaras para abençoar profissionais da saúde
         e enfermos.<o:p></o:p></span></p>
-        
+
         <p class="MsoNormal" style="text-align:justify">O hospital Virgen de las Nieves
         nos fornece o material - um papel chamado grau cirúrgico - e nós, como família,
         doamos o tecido para as tiras, fios e mão de obra. É algo precioso, e contamos
         inclusive, com a ajuda de nossos dois filhos.<o:p></o:p></p>
-        
+
         <p class="MsoNormal" style="text-align:justify">Lembramos que nosso ministério
         não é interrompido por uma quarentena. As paredes de nossa casa não são uma
         barreira à divulgação do Evangelho no campo para o qual fomos chamados como
         família a servir e compartilhar esperança em Cristo.<o:p></o:p></p>
-        
+
         <p class="MsoNormal" style="text-align:justify">Pela graça de Deus, conseguimos
         entregar as primeiras cem máscaras, que se juntaram às 5.300 máscaras já
         entregues ao hospital. Pedimos suas orações porque continuamos a trabalhar em
         família para costurar outras 500 nesta semana.<o:p></o:p></p>
-        
+
         <p class="MsoNormal" style="text-align:justify">Seja por telefone ou WhatsApp,
         continuamos, como família, em contato com todos os nossos amigos espanhóis e
         muçulmanos, reafirmando que o Senhor reina e que Ele tem a verdadeira coroa!
         Assim, levamos palavras de encorajamento e esperança em meio ao caos.<o:p></o:p></p>
-        
+
         <p class="MsoNormal" align="right" style="text-align:right">Diretor de
         Sustentabilidade Organizacional da PMI<o:p></o:p></p>`,
       },
       {
-        id: 5,
+        id: 6,
         datePublished: '2021-07-28',
-        projeto: 'O SENHOR REINA; ELE TEM A VERDADEIRA COROA!',
+        projeto: 'PRIMEIRO CONTATO NÃO VIRTUAL COM OUTROS CRISTÃOS',
         categoria: 'Testemunho',
-        fontes:'https://unsplash.com/@sjobjio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText',
+        fontes:'',
         dateCreated: '2021-07-28',
         dateModified: '2021-02-18',
-        img: './../assets/img/portfolio/5-thumbnail-sj-objio-8hHxO3iYuU0-unsplash.png',
+        img: './../assets/img/portfolio/6-thumbnail-woman-436753_1920.jpg',
         img2: '',
         keywords: 'Obra Missionária, missões, mulçumanos',
-        title: 'O SENHOR REINA; ELE TEM A VERDADEIRA COROA*!',
-        title2: '*Corona, em espanhol. NDT',
+        title: 'PRIMEIRO CONTATO NÃO VIRTUAL COM OUTROS CRISTÃOS',
+        title2: 'O VALOR DAS MULHERES',
         articleBody:
-        ``,
+        `<span id="docs-internal-guid-359b98cd-7fff-2686-1405-cf52b4e3975c"><p dir="ltr" style="line-height:1.7999999999999998;text-align: justify;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">NM mora em um país onde os cristãos devem esconder sua fé na esfera pública. Portanto, as oportunidades de encontrar irmãos na fé são um presente. Entre retalhos de tecidos, óleos e aquarelas, várias mulheres árabes conversam e riem deixando sua criatividade fluir. A “casa das mulheres” é um refúgio para elas, um lugar onde se sentem livres, valorizadas e seguras.</span></p><br><p dir="ltr" style="line-height:1.7999999999999998;text-align: justify;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Os estrangeiros que lideram o projeto de artesanato são trabalhadores da PMInternacional que aprenderam a língua local, respeitam a cultura, transmitem paz e expressam amor a cada pessoa. Os alunos veem "algo diferente" neles, mas não ousam dar o passo necessário para descobrir o que é. NM sabe do que se trata. Você identificou essa diferença há muito tempo. E naquele dia ele decidiu falar.</span></p><p dir="ltr" style="line-height:1.7999999999999998;text-align: justify;margin-top:0pt;margin-bottom:10pt;"><span style="font-size: 12pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"><br></span><span style="font-size: 12pt; font-family: Arial; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">O VALOR DAS MULHERES</span></p><p dir="ltr" style="line-height:1.7999999999999998;text-align: justify;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">O dia festivo que celebram todos os anos na “casa das mulheres” foi organizado com cuidado, apesar da pressão que as autoridades têm exercido sobre a equipe de PMI e outros trabalhadores cristãos. “Continuamos fortes em meio à pressão e à nossa fraqueza. Naquele dia, éramos cerca de trinta e cinco mulheres. Nossos alunos aguardaram ansiosamente o momento de encontro e risos. Este feriado anual é um momento especial que dedicamos a compartilhar e modelar os valores espirituais do Reino ”, disse um membro da equipe.</span></p><br><p dir="ltr" style="line-height:1.7999999999999998;text-align: justify;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Nessa ocasião, eles convidaram a esposa do pastor da congregação local (igreja não oficial que se reúne secretamente) para falar sobre o valor das mulheres e a complementaridade com os homens. “Deus criou a mulher não da cabeça do homem para estar em cima dele. Não aos pés do homem para que fique sob ele. Ele o criou a partir de sua costela, para que fique ao lado dele, como um valor igual aos olhos do Criador ”, disse o convidado no início da palestra. Houve um debate aberto sobre o papel das mulheres no Alcorão, na "shariaa" (lei do Alcorão) e na sociedade muçulmana. A maioria das mulheres participou, ficando uma a uma no meio da sala para expressar suas ideias. NM era uma delas. Ele falou com grande graça e deu um ponto de vista diferente da perspectiva tradicional muçulmana.</span></p><p dir="ltr" style="line-height:1.7999999999999998;text-align: justify;margin-top:0pt;margin-bottom:10pt;"><span style="font-size: 12pt; font-family: Arial; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"><br></span><span style="font-size: 12pt; font-family: Arial; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">BEM MANTIDO EM SEGREDO</span></p><p dir="ltr" style="line-height:1.7999999999999998;text-align: justify;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">No final do encontro, NM abordou uma das organizadoras e mostrou-lhe o seu anel: Uma peça muito original com uma pequena cruz, escondida de um lado.</span></p><br><p dir="ltr" style="line-height:1.7999999999999998;text-align: justify;margin-top:0pt;margin-bottom:10pt;"><span style="font-size: 12pt; font-family: Arial; font-style: italic; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">- Quero te mostrar isso, disse NM estendendo a mão para Lucy. - Uma cruz! Você sabe o que isso significa? - Eu sei o que isso significa. É a cruz que representa o sacrifício de Cristo. - E por que você está carregando isso na mão? Isso tem algum valor para você? - Sim! Ele morreu por mim. Já sou cristã há algum tempo. Não vou voltar, preciso me encontrar com você para ler a Bíblia e orar. Preciso de uma Bíblia impressa em árabe.</span></p><h2 dir="ltr" style="line-height:1.7999999999999998;text-align: justify;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">HISTÓRIA DE UMA CONVERSÃO</span></h2><br><p dir="ltr" style="line-height:1.7999999999999998;text-align: justify;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">NM cresceu em uma das cidades mais cosmopolitas do país, numa época em que havia maior tolerância religiosa do que hoje. Ela tinha alguns parentes e também vizinhos que se comportavam de maneira diferente do resto da família (muçulmana). “Não sei se eram judeus ou cristãos, mas havia algo neles que me atraiu. Me chamou a atenção que eles se tratavam com amor e tinham uma espiritualidade diferente ”, explica. NM começou a se fazer perguntas: Por que temos que orar cinco vezes por dia? Por que temos que jejuar? Por que temos que ir para Meca? Por que é tão pesado agradar a Deus? “Não houve respostas, no Islã não é permitido fazer esse tipo de pergunta. Tive que mantê-los em segredo, porque foi assim que foi escrito ”, diz ele.</span></p><br><p dir="ltr" style="line-height:1.7999999999999998;text-align: justify;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Então NM se casou, teve filhos e um bom emprego também. Sua vida estava aparentemente completa. Mas ela sentiu um vazio espiritual que a levou repetidamente a buscar a Deus no Alcorão. “Quanto mais eu leio, mais me sinto longe do Deus verdadeiro. Algo em meu coração me disse que Deus é amor. Ele leu o Alcorão e só sentiu peso, punição, obrigações, como se Deus se dedicasse a tornar a vida humana mais pesada. Eu sabia no fundo que isso não poderia ser verdade ”, diz ele. Um belo dia, ele começou a assistir a alguns programas cristãos na televisão. Assim, ele teve uma nova perspectiva de Deus. “Pude encontrar um Deus de amor, de perdão, que se entregou e se sacrificou por mim na cruz. Um Deus que me ofereceu tudo por sua graça, um amor imerecido ”. No meio deste despertar espiritual, Uma noite ele teve um sonho em que uma cobra muito grande estava em seu pescoço. Imersa naquela situação angustiante, ela ouviu uma voz dizendo: Não tenha medo, estou tirando de você agora. “Imediatamente a cobra desapareceu, fui inundado por uma paz enorme e tive a certeza de que aquela voz era de Jesus. Eu só poderia dizer: acredito em você ”, lembra NM. Quando ele se levantou no dia seguinte, ele olhou para o céu e tomou a decisão de seguir a Cristo. Ele renunciou ao Islã com a certeza de que Jesus morreu na cruz e perdoou seus pecados. Quando ele se levantou no dia seguinte, ele olhou para o céu e tomou a decisão de seguir a Cristo. Ele renunciou ao Islã com a certeza de que Jesus morreu na cruz e perdoou seus pecados. Quando ele se levantou no dia seguinte, ele olhou para o céu e tomou a decisão de seguir a Cristo. Ele renunciou ao Islã com a certeza de que Jesus morreu na cruz e perdoou seus pecados.</span></p><p dir="ltr" style="line-height:1.7999999999999998;text-align: justify;margin-top:0pt;margin-bottom:10pt;"><span style="font-size: 12pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"><br><br></span></p><h2 dir="ltr" style="line-height:1.7999999999999998;text-align: justify;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">NOVA VIDA</span></h2><br><p dir="ltr" style="line-height:1.7999999999999998;text-align: justify;margin-top:0pt;margin-bottom:0pt;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Graças a uma pesquisa na Internet, ele encontrou informações sobre o cristianismo e pessoas que falavam de Jesus em sua própria língua. Por muitos anos ela viveu assim, alimentando sua fé online, sem falar sobre isso com ninguém, até que Deus permitiu que ela chegasse à “casa das mulheres”. Lá ocorreu seu primeiro encontro não virtual com cristãos. “Embora os professores sejam estrangeiros, pude me comunicar perfeitamente porque eles falam a nossa língua. Por meio deles, pela primeira vez, tive em minhas mãos uma Bíblia em meu próprio idioma. Agora eu li e guardo como um grande tesouro. Tenho visto vários milagres e provas da presença de Deus em minha vida. Acho que eles não alcançariam milhares de páginas para compartilhar. Meu único desejo é conhecer a Cristo mais e mais. Minha família vê algo diferente em mim, eles sabem que eu não compartilho o pensamento religioso do Islã. Espero o momento certo para poder dar razão da minha fé à minha família e que também eles possam encontrar o Caminho, a Verdade e a Vida ”, conclui NM. A estrada começou. O Senhor a procurou, falou com ela, conduziu-a a um lugar onde ela encontraria aqueles que têm o cheiro perfumado de Cristo em um país de maioria muçulmana. Agora NM se encontra semanalmente com Lucy e outras mulheres cristãs.</span></p><div><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"><br></span></div></span>`,
       },
     ];
   }
