@@ -17,11 +17,11 @@ export class ArticleService {
         projeto: 'TRABALHANDO A TERRA DO CORAÇÃO',
         categoria: 'Testemunho',
         fontes:'https://unsplash.com/@mihaisurdu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText',
-        img: './../assets/img/portfolio/1-thumbnail-mihai-surdu-1w0aqsMs-OU-unsplash.png',
+        img: './../assets/img/portfolio/1-thumbnail-rokas-skeivys-EILHSBnt6QI-unsplash.png',
         img2: '',
         keywords: 'Obra Missionária, missões, mulçumanos,discipulado',
         title: 'TRABALHANDO A TERRA DO CORAÇÃO',
-        title2: 'TRABALHANDO A TERRA DO CORAÇÃO',
+        title2: 'O Senhor nos libertou de todas as situações de perigo',
         articleBody: `<p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
         minor-bidi;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">Nós somos
@@ -114,11 +114,11 @@ export class ArticleService {
         fontes:'https://unsplash.com/@skvrck?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText',
         dateCreated: '2021-07-28',
         dateModified: '2021-07-28',
-        img: '2-thumbnail-rokas-skeivys-EILHSBnt6QI-unsplash.png',
-        img2: '2 rokas-skeivys-EILHSBnt6QI-unsplash.PNG',
+        img: './../assets/img/portfolio/2-thumbnail-rokas-skeivys-EILHSBnt6QI-unsplash.png',
+        img2: '',
         keywords: 'Obra Missionária, missões, mulçumanos',
         title: 'EMBAIXADORES ONDE ESTIVERMOS',
-        title2: 'EMBAIXADORES ONDE ESTIVERMOS',
+        title2: '"Deus o capacitou a viver em uma cultura diferente"',
         articleBody:
         `<p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
@@ -189,7 +189,7 @@ export class ArticleService {
         img2: '',
         keywords: 'Obra Missionária, missões, mulçumanos',
         title: 'NOSSA LUTA NÃO É CONTRA CARNE OU SANGUE',
-        title2: 'NOSSA LUTA NÃO É CONTRA CARNE OU SANGUE',
+        title2: 'O amor que existe em nós nasce de Deus',
         articleBody:
         `<p class="MsoNormal" style="text-align:justify"><span style="mso-ascii-font-family:
         Arial;mso-ascii-theme-font:minor-bidi;mso-hansi-font-family:Arial;mso-hansi-theme-font:
@@ -292,7 +292,7 @@ export class ArticleService {
         img2: '',
         keywords: 'Obra Missionária, missões, mulçumanos',
         title: 'AMOR E SERVIÇO',
-        title2: 'AMOR E SERVIÇO',
+        title2: 'o amor expressado no serviço é uma ferramenta poderosa',
         articleBody:
         `<p class="MsoCaption" style="text-align:justify;line-height:150%"><span style="font-size:12.0pt;line-height:150%;color:windowtext;font-weight:normal">Há
         mais de dez anos, fui desafiada pelo Senhor a atravessar a fronteira do meu
@@ -338,18 +338,76 @@ export class ArticleService {
       {
         id: 5,
         datePublished: '2021-07-28',
-        projeto: 'AMOR E SERVIÇO',
+        projeto: 'O SENHOR REINA; ELE TEM A VERDADEIRA COROA!',
         categoria: 'Testemunho',
-        fontes:'https://unsplash.com/@jeshoots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText',
+        fontes:'https://unsplash.com/@sjobjio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText',
         dateCreated: '2021-07-28',
         dateModified: '2021-02-18',
-        img: './../assets/img/portfolio/4-thumbnail-you-x-ventures-tHO1_OuKbg0-unsplash.png',
+        img: './../assets/img/portfolio/5-thumbnail-sj-objio-8hHxO3iYuU0-unsplash.png',
         img2: '',
         keywords: 'Obra Missionária, missões, mulçumanos',
-        title: 'AMOR E SERVIÇO',
-        title2: 'AMOR E SERVIÇO',
+        title: 'O SENHOR REINA; ELE TEM A VERDADEIRA COROA*!',
+        title2: '*Corona, em espanhol. NDT',
         articleBody:
-          'teste',
+        `<p class="MsoCaption" style="text-align:justify;line-height:150%"><span style="font-size:12.0pt;line-height:150%;color:windowtext;font-weight:normal">No
+        último dia 25 de março, o Diretor do Centro de Emergências e Alertas de Saúde
+        da Espanha admitiu que a falta de equipamentos de proteção individual (EPIs) é
+        uma das causas do aumento do número de infecções entre os profissionais de
+        saúde que estão lutando contra o corona vírus. A Espanha é o país com mais
+        profissionais de saúde infectados, acima de outros que estão sofrendo com o
+        COVID-19.<o:p></o:p></span></p>
+        
+        <p class="MsoCaption" style="text-align:justify;line-height:150%"><span style="font-size:12.0pt;line-height:150%;color:windowtext;font-weight:normal">A
+        falta de material nos centros continua alarmante. Há alguns dias, profissionais
+        do Hospital Gregorio Marañón, em Madri, e do Príncipe das Astúrias, de Alcalá
+        de Henares, usavam sacos de lixo para se protegerem.<o:p></o:p></span></p>
+        
+        <p class="MsoCaption" style="text-align:justify;line-height:150%"><span style="font-size:12.0pt;line-height:150%;color:windowtext;font-weight:normal">Nesse
+        cenário de calamidade, os hospitais de Granada buscaram ajuda da comunidade.
+        Eles procuraram várias escolas de costura em busca do apoio de costureiras e
+        estudantes para fazerem máscaras. Minha esposa, missionária de PMI, com seus
+        dons e talentos, juntou-se a centenas de outras pessoas da cidade, e está
+        passando horas do dia costurando máscaras para abençoar profissionais da saúde
+        e enfermos.<o:p></o:p></span></p>
+        
+        <p class="MsoNormal" style="text-align:justify">O hospital Virgen de las Nieves
+        nos fornece o material - um papel chamado grau cirúrgico - e nós, como família,
+        doamos o tecido para as tiras, fios e mão de obra. É algo precioso, e contamos
+        inclusive, com a ajuda de nossos dois filhos.<o:p></o:p></p>
+        
+        <p class="MsoNormal" style="text-align:justify">Lembramos que nosso ministério
+        não é interrompido por uma quarentena. As paredes de nossa casa não são uma
+        barreira à divulgação do Evangelho no campo para o qual fomos chamados como
+        família a servir e compartilhar esperança em Cristo.<o:p></o:p></p>
+        
+        <p class="MsoNormal" style="text-align:justify">Pela graça de Deus, conseguimos
+        entregar as primeiras cem máscaras, que se juntaram às 5.300 máscaras já
+        entregues ao hospital. Pedimos suas orações porque continuamos a trabalhar em
+        família para costurar outras 500 nesta semana.<o:p></o:p></p>
+        
+        <p class="MsoNormal" style="text-align:justify">Seja por telefone ou WhatsApp,
+        continuamos, como família, em contato com todos os nossos amigos espanhóis e
+        muçulmanos, reafirmando que o Senhor reina e que Ele tem a verdadeira coroa!
+        Assim, levamos palavras de encorajamento e esperança em meio ao caos.<o:p></o:p></p>
+        
+        <p class="MsoNormal" align="right" style="text-align:right">Diretor de
+        Sustentabilidade Organizacional da PMI<o:p></o:p></p>`,
+      },
+      {
+        id: 5,
+        datePublished: '2021-07-28',
+        projeto: 'O SENHOR REINA; ELE TEM A VERDADEIRA COROA!',
+        categoria: 'Testemunho',
+        fontes:'https://unsplash.com/@sjobjio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText',
+        dateCreated: '2021-07-28',
+        dateModified: '2021-02-18',
+        img: './../assets/img/portfolio/5-thumbnail-sj-objio-8hHxO3iYuU0-unsplash.png',
+        img2: '',
+        keywords: 'Obra Missionária, missões, mulçumanos',
+        title: 'O SENHOR REINA; ELE TEM A VERDADEIRA COROA*!',
+        title2: '*Corona, em espanhol. NDT',
+        articleBody:
+        ``,
       },
     ];
   }
