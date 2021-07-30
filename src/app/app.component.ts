@@ -1,8 +1,14 @@
 import { Component, OnInit } from '@angular/core';
-import { MatDialog, MatDialogRef, MAT_DIALOG_DATA  } from '@angular/material/dialog';
-import { ModalComponent } from './modal/modal.component';
+import emailjs, { EmailJSResponseStatus } from 'emailjs-com';
 
-// import { MatDialog, MatDialogRef, MAT_DIALOG_DATA } from '@angular/material';
+import {
+  AbstractControl,
+  AbstractControlOptions,
+  FormBuilder,
+  FormGroup,
+  ValidationErrors,
+  Validators
+} from '@angular/forms';
 
 
 @Component({
@@ -12,8 +18,9 @@ import { ModalComponent } from './modal/modal.component';
 
 })
 export class AppComponent implements OnInit {
+  public formulario: FormGroup; // formulario em questão
   title = 'PMI-BRASIL';
-  constructor() { }
+  constructor(private formBuilder: FormBuilder,) { }
   ngOnInit(): void {
     window.addEventListener('scroll', function(): void {
       if (window.scrollY > 400) {
@@ -22,6 +29,29 @@ export class AppComponent implements OnInit {
         document.getElementById('mainNav').classList.remove('navbar-shrink');
       }
     });
+    this.formulario = this.formBuilder.group({
+      nome: null,
+      email: null,
+      phone: null,
+      mensagem: null
+
+    })
+
+  }
+
+  public sendEmail() {
+    let templateParams = {
+      name: this.formulario.value.nome,
+      email: this.formulario.value.email,
+      phone: this.formulario.value.phone,
+      message: this.formulario.value.mensagem
+  };
+    emailjs.send('service_ky8533w', 'template_xmax7ib', templateParams, 'user_Z1dDHx8QbR6h6dQTzAKYB')
+      .then((result: EmailJSResponseStatus) => {
+        console.log(result.text);
+      }, (error) => {
+        console.log(error.text);
+      });
   }
 
 }

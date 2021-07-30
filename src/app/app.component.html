@@ -623,7 +623,8 @@
             Está interessado no que deus está fazendo no meio do povo mulçumano ? então entre em contato conosco.
           </h3>
         </div>
-        <form id="contactForm" name="sentMessage" novalidate="novalidate">
+
+        <form id="contactForm" [formGroup]="formulario"  (ngSubmit)="sendEmail()" novalidate="novalidate">
           <div class="row align-items-stretch mb-5">
             <div class="col-md-6">
               <div class="form-group">
@@ -631,6 +632,7 @@
                   class="form-control"
                   id="name"
                   type="text"
+                  formControlName="nome"
                   placeholder="Seu Nome *"
                   required="required"
                   data-validation-required-message="Please enter your name."
@@ -641,6 +643,8 @@
                 <input
                   class="form-control"
                   id="email"
+                  formControlName="email"
+                  name="user_email"
                   type="email"
                   placeholder="Seu Email *"
                   required="required"
@@ -652,7 +656,9 @@
                 <input
                   class="form-control"
                   id="phone"
+                  formControlName="phone"
                   type="tel"
+                  name="phone"
                   placeholder="Seu Telefone *"
                   required="required"
                   data-validation-required-message="Please enter your phone number."
@@ -663,11 +669,13 @@
             <div class="col-md-6">
               <div class="form-group form-group-textarea mb-md-0">
                 <textarea
+                formControlName="mensagem"
                   class="form-control"
                   id="message"
+                  name="message"
                   placeholder="Sua Mensagem *"
                   required="required"
-                  data-validation-required-message="Please enter a message."
+                  data-validation-required-message="Por favor entre com a mensagem."
                 ></textarea>
                 <p class="help-block text-danger"></p>
               </div>
@@ -677,7 +685,6 @@
             <div id="success"></div>
             <button
               class="btn btn-primary btn-xl text-uppercase"
-              id="sendMessageButton"
               type="submit"
             >
               Enviar Mensagem
