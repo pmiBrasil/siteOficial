@@ -16,7 +16,7 @@ export class ArticleService {
         dateModified: '2021-02-18',
         projeto: 'nome do projeto',
         categoria: 'Asia',
-        fontes:'https://pt.wikipedia.org/wiki/Cristianismo_em_%C3%81frica',
+        fontes:'Revista SALAT&nbsp;',
         img: './../assets/img/portfolio/ReligionAfrica.webp',
         img2: './../assets/img/portfolio/ReligionAfricaFull.webp',
         keywords: 'Obra Missionária, missões, mulçumanos',
