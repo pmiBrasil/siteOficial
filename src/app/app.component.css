@@ -17,6 +17,11 @@
   opacity: 1;
   transform: translateX(-15%) translateY(0px);
 }
+.sectooltip:hover .tooltip2 {
+  visibility: visible;
+  opacity: 1;
+  transform: translateX(-15%) translateY(0px);
+}
 
 .tooltip{
   position: absolute;
@@ -24,7 +29,31 @@
   left: 80px;
   padding: 20px;
   min-width: 200px;
-
+  background-color: #4DAF94;
+  color:white;
+  font-size: smaller;
+  border: 1px solid  #4DAF94;
+  border-radius: 10px;
+  visibility: hidden;
+  opacity: 0;
+  transform: translateY(-10px);
+  transition: 0.5s;
+}
+.tooltip2{
+  position: absolute;
+  /* bottom: 50px; */
+  /* left: 400px; */
+  /* min-width: 200px; */
+  /* right: auto; */
+  /* max-width: auto; */
+  max-width: 50vw;
+  max-height: 70vh;
+  z-index: 99;
+  padding: 10px;
+  background-color: #4DAF94;
+  color:white;
+  text-align: start;
+  font-size: smaller;
   border: 1px solid  #4DAF94;
   border-radius: 10px;
   visibility: hidden;
@@ -33,9 +62,18 @@
   transition: 0.5s;
 }
 .sectooltip:hover {
-  font-size: large !important;
+  /* font-size: large !important; */
 color: #4DAF94 !important;
 transition: 0.1s;
+}
+a{
+  text-decoration: none;  
+}
+li {
+  margin-left: -20px;
+  text-overflow: initial;}
+.list-style-none{
+  list-style: none;
 }
 .citacao{
   font-size: 1.3rem !important;

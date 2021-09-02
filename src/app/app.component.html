@@ -1,555 +1,457 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-  <head>
-    <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
-    <meta name="description" content="" />
-    <meta name="author" content="" />
-    <title>Agência - PM Nacional</title>
-    <link rel="icon" type="image/x-icon" href="./../assets/img/favicon.ico" />
 
-    <!-- Google fonts-->
-    <link
-      href="https://fonts.googleapis.com/css?family=Montserrat:400,700"
-      rel="stylesheet"
-      type="text/css"
-    />
-    <link
-      href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic"
-      rel="stylesheet"
-      type="text/css"
-    />
-    <link
-      href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700"
-      rel="stylesheet"
-      type="text/css"
-    />
-    <!-- articles (includes page.HTML)-->
-    <script
-      src="https://code.jquery.com/jquery-3.1.1.min.js"
-      integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
-      crossorigin="anonymous"
-    ></script>
-  </head>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+  <title>Agência - PM Nacional</title>
+  <link rel="icon" type="image/x-icon" href="./../assets/img/favicon.ico" />
 
-  <body id="page-top" data-spy="scroll" data-target="#mainNav" data-offset="0">
-    <!-- Navigation-->
-    <nav
-      class="navbar navbar-expand-lg fixed-top"
-      id="mainNav"
-      name="NavDynamic"
-    >
-      <div class="container-fluid">
-        <a class="navbar-brand" href="#page-top"
-          ><img
-            src="./../assets/img/pmiInter-logo.svg"
-            style="margin-top: -80px; margin-bottom: -70px; height: 65px"
-            alt=""
-          />
-        </a>
-        <button
-          class="navbar-toggler navbar-toggler-right"
-          type="button"
-          data-bs-toggle="collapse"
-          data-bs-target="#navbarResponsive"
-          aria-controls="navbarResponsive"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          Menu
-          <i class="fas fa-bars ml-1"></i>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul
-            class="
+  <!-- Google fonts-->
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic" rel="stylesheet"
+    type="text/css" />
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
+  <!-- articles (includes page.HTML)-->
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"
+    integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+</head>
+
+<body id="page-top" data-spy="scroll" data-target="#mainNav" data-offset="0">
+  <!-- Navigation-->
+  <nav class="navbar navbar-expand-lg fixed-top" id="mainNav" name="NavDynamic">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#page-top"><img src="./../assets/img/pmiInter-logo.svg"
+          style="margin-top: -80px; margin-bottom: -70px; height: 65px" alt="" />
+      </a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse"
+        data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
+        aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars ml-1"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="
               navbar-nav
               text-uppercase
               ml-auto
               centralizaElementosNavButton
-            "
-          >
-            <li class="nav-item">
-              <a class="nav-link" href="#PMI">A pmi</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#services">faça parte</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#portfolio">HISTÓRIAS DO CAMPO</a>
-            </li>
+            ">
+          <li class="nav-item">
+            <a class="nav-link" href="#PMI">A pmi</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#services">faça parte</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#portfolio">HISTÓRIAS DO CAMPO</a>
+          </li>
 
-            <li class="nav-item">
-              <a class="nav-link" href="#about">Sobre</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#team">Parceiros</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#palavraDiretor">palavra do diretor</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#contact">Contato</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
-    <!-- Masthead-->
-    <header class="masthead">
-      <div class="container">
-        <div class="masthead-subheading" style="font-family: Montserrat">
-          Seja Bem vindo a Missão
-        </div>
-        <div
-          class="titlePMI masthead-heading text-uppercase"
-          style="font-family: Montserrat"
-        >
-          PMI - Brasil
-        </div>
-        <div class="masthead-subheading slogan">
-          Povos Muçulmanos Internacional
-        </div>
-        <a
-          class="btn btn-primary btn-xl text-uppercase"
-          href="https://pt.pminternacional.org/"
-          >CADASTRE-SE</a
-        >
-      </div>
-    </header>
-    <!-- PMI-->
-    <section class="page-section" id="PMI">
-      <div class="container">
-        <div class="text-center">
-          <h2 class="section-heading text-uppercase">Quem Somos</h2>
-          <h3 class="section-subheading text-muted">
-            Povos Muçulmanos Internacional
-          </h3>
-        </div>
-        <div class="row d-flex align-items-center text-center">
-          <div class="col-md-4 mr-4">
-            <span>
-              <img src="./../favicon.ico" alt="" />
-            </span>
-          </div>
-          <p class="description text-muted col-md-7 text-sm-left">
-            Somos uma missão evangélica latina interdenominacional servindo
-            entre os muçulmanos como uma comunidade espiritual trabalhando em
-            equipe. Sempre com o desejo de cooperar com a igreja evangélica
-            brasileira, mobilizando e direcionando recursos humanos e
-            financeiros para estabelecer a Igreja de Jesus Cristo entre os povos
-            muçulmanos. Cremos na Igreja de Cristo florescendo e impactando
-            todas as áreas da sociedade.
-          </p>
-        </div>
-      </div>
-    </section>
-    <!-- Services-->
-    <section class="page-section" id="services" style="margin-top: -20px">
-      <div class="container">
-        <div class="text-center">
-          <h2 class="section-heading text-uppercase">Conheça-nos!</h2>
-          <h3 class="section-subheading text-muted">Junte-se a nós</h3>
-        </div>
-        <div class="row text-center">
-          <div class="col-md-4">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fa fa-globe-asia fa-stack-1x fa-inverse"></i>
-            </span>
-            <h4 class="my-3">PMI no Mundo</h4>
-            <p class="text-muted">
-              Norte de África <br />
-              África Subsaariana <br />
-              Oriente Médio <br />
-              Europa <br />
-              Ásia <br />
-              Ásia Central.
-            </p>
-          </div>
-          <div class="col-md-4">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-map-marker-alt fa-stack-1x fa-inverse"></i>
-            </span>
-            <h4 class="my-3">Nossos Projetos</h4>
-            <p class="text-muted">
-              Projeto Escolar no Senegal<br />
-              Projeto Indonésia<br />
-              Projeto Marrocos<br />
-              Projeto Jordânia<br />
-              Refugiados sírios e sudaneses <br />
-              Projeto Tunísia <br />
-              Projeto Mauritânia.
-            </p>
-          </div>
-          <div class="col-md-4">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fa fa-users fa-stack-1x fa-inverse"></i>
-            </span>
-            <h4 class="my-3">
-              Treinamento <br />
-              missionário
-            </h4>
-            <p class="text-muted">
-              Musalaha <br />
-              Meab<br />
-              SBPV.
-            </p>
-          </div>
-        </div>
-        <div class="row text-center">
-          <div class="col-md-4">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fas fa-smile-wink fa-stack-1x fa-inverse"></i>
-            </span>
-            <h4 class="my-3">Faça Parte</h4>
-            <p class="text-muted mb-1">Viagem missionária (10 dias)</p>
-            <div class="text-muted sectooltip">
-              Seja um obreiro
-              <p class="tooltip">
-                Você pode fazer parte da obra sendo um obreiro curto , médio e
-                longo prazo
-              </p>
-            </div>
-            <div class="sectooltip text-muted">
-              Seja um voluntário
-              <p class="tooltip">
-                você pode fazer parte da obra sendo um Voluntario mobilizador:
-                Igreja, mídias sociais e escritório.
-              </p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fa fa-hand-holding-heart fa-stack-1x fa-inverse"></i>
-            </span>
-            <h4 class="my-3">Doe</h4>
-            <p class="text-muted mb-1">Sejam Generosos</p>
-            <div class="sectooltip text-muted">
-              Ofertas <br />
-              Divulgação <br />
-              Participação em fóruns missionários.
-              <p class="tooltip">
-                você também pode fazer parte ofertando e investindo na
-                evangelização de povos mulçumanos
-              </p>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-circle fa-stack-2x text-primary"></i>
-              <i class="fa fa-hands-helping fa-stack-1x fa-inverse"></i>
-            </span>
-            <h4 class="my-3">PMI na sua Igreja</h4>
-            <p class="text-muted">
-              Gostaria de entender melhor sobre a obra missionaria no mundo
-              muçulmano? podemos ir até sua igreja!
-            </p>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- Portfolio Grid-->
-    <section class="page-section bg-light" id="portfolio">
-      <app-article></app-article>
-    </section>
-    <!-- About-->
-    <section class="page-section" id="about">
-      <div class="container">
-        <div class="text-center">
-          <h2 class="section-heading text-uppercase">Sobre</h2>
-          <h3 class="section-subheading text-muted">
-            Conheça um pouco de nossa História.
-          </h3>
-        </div>
-        <ul class="timeline">
-          <li>
-            <div class="timeline-image">
-              <img
-                class="rounded-circle img-fluid"
-                src="./../assets/img/about/1.png"
-                alt=""
-              />
-            </div>
-            <div class="timeline-panel">
-              <div class="timeline-heading">
-                <h4>1971-1981</h4>
-                <h4 class="subheading">Nosso Humilde Começo</h4>
-              </div>
-              <div class="timeline-body">
-                <p class="text-muted">
-                  Deus chamou em 1971 um jovem engenheiro chamado Pablo Carrillo
-                  para que deixasse sua pátria (México) para que fosse viver na
-                  Espanha e posteriormente no Oriente Médio e Norte da África.
-                  Assim o fez e serviu durante três anos a Operação Mobilização
-                  na Jordânia, Síria, Líbano e Tunísia.
-                </p>
-              </div>
-            </div>
+          <li class="nav-item">
+            <a class="nav-link" href="#about">Sobre</a>
           </li>
-          <li class="timeline-inverted">
-            <div class="timeline-image">
-              <img
-                class="rounded-circle img-fluid"
-                src="./../assets/img/about/2.png"
-                alt=""
-              />
-            </div>
-            <div class="timeline-panel">
-              <div class="timeline-heading">
-                <h4>Em 1982</h4>
-                <h4 class="subheading">
-                  O sonho de enviar obreiros para o Mundo Islâmico
-                </h4>
-              </div>
-              <div class="timeline-body">
-                <p class="text-muted">
-                  Logo se casou com Jane, com quem teve três filhos (Natasha,
-                  Yusef, e Yamila) e em 1982 estavam vivendo como família no
-                  Marrocos. Durante quatro anos oraram para que o Senhor movesse
-                  a igreja latina para enviar obreiros ao mundo islâmico.
-                </p>
-              </div>
-            </div>
+          <li class="nav-item">
+            <a class="nav-link" href="#team">Parceiros</a>
           </li>
-          <li>
-            <div class="timeline-image">
-              <img
-                class="rounded-circle img-fluid"
-                src="./../assets/img/about/3.png"
-                alt=""
-              />
-            </div>
-            <div class="timeline-panel">
-              <div class="timeline-heading">
-                <h4>1987 sul da Espanha</h4>
-                <h4 class="subheading">O início na Espanha</h4>
-              </div>
-              <div class="timeline-body">
-                <p class="text-muted">
-                  Visto que era quase impossível comunicar a visão residindo em
-                  um país fechado ao evangelho, se mudaram em 1987 para o sul da
-                  Espanha. Heinz Suter e sua esposa Isabela se uniram à visão,
-                  cooperando com a administração de um escritório. A partir daí
-                  surgia o desafio para a América Latina. Nascia o projeto
-                  Magrebe!1 Naqueles anos, muito lentamente, começaram a
-                  incorporar-se os primeiros obreiros. Foi a resposta a
-                  incontáveis orações elevadas ante o trono de Deus.
-                </p>
-              </div>
-            </div>
+          <li class="nav-item">
+            <a class="nav-link" href="#palavraDiretor">palavra do diretor</a>
           </li>
-          <li class="timeline-inverted">
-            <div class="timeline-image">
-              <img
-                class="rounded-circle img-fluid"
-                src="./../assets/img/about/4.png"
-                alt=""
-              />
-            </div>
-            <div class="timeline-panel">
-              <div class="timeline-heading">
-                <h4>1991</h4>
-                <h4 class="subheading">Outras Regiões</h4>
-              </div>
-              <div class="timeline-body">
-                <p class="text-muted">
-                  Inicialmente os obreiros foram se estabelecendo no norte da
-                  África, na região subsahariana, e um pouco mais adiante na
-                  Ásia Central e do Sul e no Oriente Médio. Devido a esse avanço
-                  progressivo, em 1991, se decidiu trocar o nome original por PM
-                  Internacional (Povos Muçulmanos).
-                </p>
-              </div>
-            </div>
-          </li>
-          <li class="timeline-inverted">
-            <div class="timeline-image">
-              <h4>
-                Seja Parte
-                <br />
-                Da nossa
-                <br />
-                História!
-              </h4>
-            </div>
+          <li class="nav-item">
+            <a class="nav-link" href="#contact">Contato</a>
           </li>
         </ul>
       </div>
-    </section>
-    <section class="page-section bg-light" id="palavraDiretor" style="display: flex; justify-content: center; align-items: center;">
-      <iframe
-        width="1120"
-        height="630"
-        src="https://www.youtube.com/embed/W-bvUVIj87s?controls=0"
-        title="YouTube video player"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-      ></iframe>
-    </section>
-    <!-- Team-->
-    <section class="page-section" id="team">
-      <div class="container" style="margin-bottom: -5rem">
-        <div class="text-center">
-          <!-- <h2 class="section-heading text-uppercase">Nossos Parceiros</h2> -->
-          <h2 class="section-heading text-uppercase">Quem nos Conhece</h2>
-          <h3 class="section-subheading text-muted">
-            Uma breve palavra sobre a PMI
-          </h3>
+    </div>
+  </nav>
+  <!-- Masthead-->
+  <header class="masthead">
+    <div class="container">
+      <div class="masthead-subheading" style="font-family: Montserrat">
+        Seja Bem vindo a Missão
+      </div>
+      <div class="titlePMI masthead-heading text-uppercase" style="font-family: Montserrat">
+        PMI - Brasil
+      </div>
+      <div class="masthead-subheading slogan">
+        Povos Muçulmanos Internacional
+      </div>
+      <a class="btn btn-primary btn-xl text-uppercase" href="https://pt.pminternacional.org/">CADASTRE-SE</a>
+    </div>
+  </header>
+  <!-- PMI-->
+  <section class="page-section" id="PMI">
+    <div class="container">
+      <div class="text-center">
+        <h2 class="section-heading text-uppercase">Quem Somos</h2>
+        <h3 class="section-subheading text-muted">
+          Povos Muçulmanos Internacional
+        </h3>
+      </div>
+      <div class="row d-flex align-items-center text-center">
+        <div class="col-md-4 mr-4">
+          <span>
+            <img src="./../favicon.ico" alt="" />
+          </span>
         </div>
-        <div
-          id="carouselExampleSlidesOnly"
-          class="carousel slide"
-          data-bs-ride="carousel"
-        >
-          <div
-            class="row"
-            class="carousel-inner"
-            style="margin-top: -50px; padding-top: -50px"
-          >
-            <div class="col-lg-4" class="carousel-item active">
-              <div
-                class="team-member d-flex flex-column align-items-center mt-5"
-              >
-                <img
-                  class="mx-auto rounded-circle"
-                  src="./../assets/img/imgIndicacoes/RonaldoLidorio.png"
-                  alt=""
-                />
-                <h4>Ronaldo Lidorio</h4>
-                <p class="text-muted large">
-                  É pastor presbiteriano e missionário ligado à
-                  <abbr title="Agência Presbiteriana de Missões Transculturaisa"
-                    >(APMT)</abbr
-                  >
-                  e à WEC Internacional
-                </p>
-                <h3 class="section-subheading text-muted citacao">
-                  "A PMI é motivo de profunda gratidão a Deus, pela visão do
-                  Reino, compromisso com a Palavra e manifesto zelo no
-                  desenvolvimento da missão a partir de sinceros e profundos
-                  relacionamentos pessoais."
-                </h3>
-                <!-- <div style="margin-top: -25px;">
-                <a class="btn btn-dark btn-social mx-2" href="#!"
-                  ><i class="fab fa-twitter"></i
-                ></a>
-                <a class="btn btn-dark btn-social mx-2" href="#!"
-                  ><i class="fab fa-facebook-f"></i
-                ></a>
-                <a class="btn btn-dark btn-social mx-2" href="#!"
-                  ><i class="fab fa-linkedin-in"></i
-                ></a>
-              </div> -->
+        <p class="description text-muted col-md-7 text-sm-left">
+          Somos uma missão evangélica latina interdenominacional servindo
+          entre os muçulmanos como uma comunidade espiritual trabalhando em
+          equipe. Sempre com o desejo de cooperar com a igreja evangélica
+          brasileira, mobilizando e direcionando recursos humanos e
+          financeiros para estabelecer a Igreja de Jesus Cristo entre os povos
+          muçulmanos. Cremos na Igreja de Cristo florescendo e impactando
+          todas as áreas da sociedade.
+        </p>
+      </div>
+    </div>
+  </section>
+  <!-- Services-->
+  <section class="page-section" id="services" style="margin-top: -20px">
+    <div class="container">
+      <div class="text-center">
+        <h2 class="section-heading text-uppercase">Conheça-nos!</h2>
+        <h3 class="section-subheading text-muted">Junte-se a nós</h3>
+      </div>
+      <div class="row text-center">
+        <div class="col-md-4">
+          <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="fa fa-globe-asia fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4 class="my-3">PMI no Mundo</h4>
+          <ul>
+            <li class="sectooltip text-muted list-style-none">
+              Norte de África
+              <div class="tooltip2">
+                <ul>
+                  <li>Irmãos dispostos a ser pacientes, resilientes e criativos que gerem iniciativas estratégicas para
+                    estabelecer no país e abençoar suas comunidades.</li>
+                  <li>Voluntários para ensinar inglês e design gráfico na universidade</li>
+                  <li>Engenheiros civis</li>
+                  <li>Professores de inglês em todos os níveis</li>
+                  <li>Professores pré-escolares, primários ou secundários de qualquer disciplina, capazes de ensinar em
+                    inglês: História, biologia, física e química</li>
+                  <li>Professores de esportes e dança,</li>
+                  <li>Para ONG: Administrador, Gerente de Projetos, Diretor Financeiro, Psicólogos. Especialistas em
+                    programas de inclusão para pessoas com deficiência.</li>
+                </ul>
               </div>
-            </div>
+            </li>
+            <li class="sectooltip text-muted list-style-none">
+              África Subsaariana
+              <div class="tooltip2">
+                <ul>
+                  <li>Médicos</li>
+                  <li>Bacteriólogos </li>
+                  <li>Fisioterapeutas</li>
+                  <li>Nutricionistas</li>
+                  <li>Enfermeiros</li>
+                  <li>Informáticos</li>
+                  <li>Administradores</li>
+                  <li>Equipe de manutenção: eletricistas, encanadores, etc</li>
+                  <li>Professores dispostos a treinar outros, educadores, etc.</li>
+                  <li>Especialistas em desenvolvimento psicomotor </li>
+                  <li>Professores e evangelistas dispostos a amar e abençoar os outros</li>
+                </ul>
+              </div>
+            </li>
+            <li class="sectooltip text-muted list-style-none">
+              Oriente Médio
+              <div class="tooltip2">
+                <ul>
+                  <li>Professores de educação física </li>
+                  <li>Treinadores de futebol </li>
+                  <li>Ex-jogadores de futebol </li>
+                  <li>Professores de espanhol</li>
+                  <li>Profissionais de saúde: Médicos e Psicólogos </li>
+                  <li>Professores da pré-escola e do ensino fundamental </li>
+                  <li>Assistentes sociais </li>
+                  <li>Profissionais com experiência em Desenvolvimento Social </li>
+                  <li>Profissionais com experiência em Microempreendimentos </li>
+                  <li>Administradores de empresas </li>
+                  <li>Contadores</li>
+                  <li>Empresários</li>
+                  <li>Gerente de Mídias Sociais</li>
+                </ul>
+              </div>
+            </li>
+            <li class="sectooltip text-muted list-style-none">
+              Europa
+              <div class="tooltip2">
+                <ul>
+                  <li>Evangelistas, professores, plantadores da igreja, músicos </li>
+                  <li>Educadores </li>
+                  <li>Pessoas com a capacidade de ensinar espanhol, ofícios e habilidades: costura, ofícios,
+                    carpintaria, etc.</li>
+                  <li>Técnicos/Engenheiros de Sistemas </li>
+                  <li>Administradores</li>
+                  <li>Designers Gráficos </li>
+                  <li>Publicitas</li>
+                  <li>Comunicadores </li>
+                  <li>Psicólogos</li>
+                  <li>Assistentes sociais ou irmãos com experiência no desenvolvimento de projetos comunitários.</li>
 
-            <div class="col-lg-4" class="carousel-item">
-              <div
-                class="team-member d-flex flex-column align-items-center mt-5"
-              >
-                <img
-                  class="mx-auto rounded-circle"
-                  src="./../assets/img/imgIndicacoes/FlavioRamos.png"
-                  alt=""
-                />
-                <h4>Flavio Ramos</h4>
-                <p class="text-muted large">
-                  Presidente da
-                  <abbr title=" Missão Evangélica Árabe do Brasil">MEAB</abbr>
-                </p>
-                <h3 class="section-subheading text-muted citacao">
-                  "O ministério da PMI tem sido de grande impacto e bençãos na
-                  vida milhares de pessoas ao redor do mundo. Para mim é um
-                  privilégio servir em parceria com esses irmãos."
-                </h3>
-                <!-- <div style="margin-top: -25px;">
-                <a class="btn btn-dark btn-social mx-2" href="#!"
-                  ><i class="fab fa-twitter"></i
-                ></a>
-                <a class="btn btn-dark btn-social mx-2" href="#!"
-                  ><i class="fab fa-facebook-f"></i
-                ></a>
-                <a class="btn btn-dark btn-social mx-2" href="#!"
-                  ><i class="fab fa-linkedin-in"></i
-                ></a>
-              </div> -->
+                </ul>
               </div>
-            </div>
+            </li>
+            <li class="sectooltip text-muted list-style-none">
+              Ásia
+              <div class="tooltip2">
+                <ul>
+                  <li>Psicólogos</li>
+                  <li>Médicos o enfermeiros </li>
+                  <li>Fisioterapeutas </li>
+                  <li>Designers publicitários </li>
+                  <li>Professores de inglês </li>
+                  <li>Treinadores esportivos</li>
+                </ul>
+              </div>
+            </li>
+            <li class="sectooltip text-muted list-style-none">
+              Ásia Central
+              <!-- <div class="tooltip2">teste</div> -->
+            </li>
 
-            <div class="col-lg-4" class="carousel-item">
-              <div
-                class="team-member d-flex flex-column align-items-center mt-5"
-              >
-                <img
-                  class="mx-auto rounded-circle"
-                  src="./../assets/img/imgIndicacoes/JoaoLuizSantiago.png"
-                  alt=""
-                />
-                <h4>Joao Luiz Santiago</h4>
-                <p class="text-muted large">
-                  Coordenador do Departamento de Missões do
-                  <abbr title="Seminário Bíblico Palavra da Vida (Atibaia-SP)"
-                    >PV</abbr
-                  >
-                </p>
-                <h3 class="section-subheading text-muted citacao">
-                  "Tenho o prazer de conhecer vários obreiros da PMI e sua
-                  seriedade na tarefa missionária aos não alcançados. Agência
-                  comprometida com a Causa em tornar o nome de Jesus mais
-                  conhecido."
-                </h3>
-                <!-- <div style="margin-top: -25px;">
-                <a class="btn btn-dark btn-social mx-2" href="#!"
-                  ><i class="fab fa-twitter"></i
-                ></a>
-                <a class="btn btn-dark btn-social mx-2" href="#!"
-                  ><i class="fab fa-facebook-f"></i
-                ></a>
-                <a class="btn btn-dark btn-social mx-2" href="#!"
-                  ><i class="fab fa-linkedin-in"></i
-                ></a>
-              </div> -->
-              </div>
-            </div>
+          </ul>
+        </div>
+        <div class="col-md-4">
+          <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="fas fa-map-marker-alt fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4 class="my-3">Nossos Projetos</h4>
+          <p class="text-muted">
+            Projeto Escolar no Senegal<br />
+            Projeto Indonésia<br />
+            Projeto Marrocos<br />
+            Projeto Jordânia<br />
+            Refugiados sírios e sudaneses <br />
+            Projeto Tunísia <br />
+            Projeto Mauritânia.
+          </p>
+        </div>
+        <div class="col-md-4">
+          <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="fa fa-users fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4 class="my-3">
+            Treinamento <br />
+            missionário
+          </h4>
 
-            <div class="col-lg-4" class="carousel-item">
-              <div
-                class="team-member d-flex flex-column align-items-center mt-5"
-              >
-                <img
-                  class="mx-auto rounded-circle"
-                  src="./../assets/img/imgIndicacoes/JuarezMarcondesFilho.png"
-                  alt=""
-                />
-                <h4>Reverendo Juarez Marcondes Filho</h4>
-                <p class="text-muted large">
-                  Pastor da Igreja Presbiteriana Central de Curitiba
-                  <abbr
-                    title="e secretário do Supremo Concílio da Igreja Presbiteriana do Brasil"
-                    >...</abbr
-                  >
-                </p>
-                <h3
-                  class="section-subheading text-muted citacao"
-                  style="min-width: 60% !important"
-                >
-                  "Em qualquer lugar, fazer Missão é anunciar o nome de Jesus.
-                  Mas não se pode fazer Missão do mesmo modo em todo lugar. PMI
-                  é uma verdadeira missão voltada para atender uma demanda
-                  crescente, em prol dos muçulmanos, por quem Jesus derramou o
-                  seu precioso sangue. Se alguém receber o chamado de Deus para
-                  ir a estes povos, não pode deixar de incluir o contato com
-                  PMI"
-                </h3>
-                <!-- <div style="margin-top: -25px;">
+
+          <p class="text-muted">
+            <a class="sectooltip" href="https://pmicampus.org/" target="_blanc">Musalaha</a> <br />
+            <a class="sectooltip" href="https://www.instagram.com/missao_evangelica_arabe_brasil/"
+              target="_blanc">Meab</a><br />
+            <a class="sectooltip" href="https://palavradavida.org.br/" target="_blanc">SBPV</a>
+          </p>
+        </div>
+      </div>
+      <div class="row text-center">
+        <div class="col-md-4">
+          <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="fas fa-smile-wink fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4 class="my-3">Faça Parte</h4>
+          <p class="text-muted mb-1">Viagem missionária (10 dias)</p>
+          <div class="text-muted sectooltip">
+            Seja um obreiro
+            <p class="tooltip">
+              Você pode fazer parte da obra sendo um obreiro curto , médio e
+              longo prazo
+            </p>
+          </div>
+          <div class="sectooltip text-muted">
+            Seja um voluntário
+            <p class="tooltip">
+              você pode fazer parte da obra sendo um Voluntario mobilizador:
+              Igreja, mídias sociais e escritório.
+            </p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="fa fa-hand-holding-heart fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4 class="my-3">Doe</h4>
+          <p class="text-muted mb-1">Sejam Generosos</p>
+          <div class="sectooltip text-muted">
+            Ofertas <br />
+            Divulgação <br />
+            Participação em fóruns missionários.
+            <p class="tooltip">
+              você também pode fazer parte ofertando e investindo na
+              evangelização de povos mulçumanos
+            </p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="fa fa-hands-helping fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4 class="my-3">PMI na sua Igreja</h4>
+          <p class="text-muted">
+            Gostaria de entender melhor sobre a obra missionaria no mundo
+            muçulmano? podemos ir até sua igreja!
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Portfolio Grid-->
+  <section class="page-section bg-light" id="portfolio">
+    <app-article></app-article>
+  </section>
+  <!-- About-->
+  <section class="page-section" id="about">
+    <div class="container">
+      <div class="text-center">
+        <h2 class="section-heading text-uppercase">Sobre</h2>
+        <h3 class="section-subheading text-muted">
+          Conheça um pouco de nossa História.
+        </h3>
+      </div>
+      <ul class="timeline">
+        <li>
+          <div class="timeline-image">
+            <img class="rounded-circle img-fluid" src="./../assets/img/about/1.png" alt="" />
+          </div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4>1971-1981</h4>
+              <h4 class="subheading">Nosso Humilde Começo</h4>
+            </div>
+            <div class="timeline-body">
+              <p class="text-muted">
+                Deus chamou em 1971 um jovem engenheiro chamado Pablo Carrillo
+                para que deixasse sua pátria (México) para que fosse viver na
+                Espanha e posteriormente no Oriente Médio e Norte da África.
+                Assim o fez e serviu durante três anos a Operação Mobilização
+                na Jordânia, Síria, Líbano e Tunísia.
+              </p>
+            </div>
+          </div>
+        </li>
+        <li class="timeline-inverted">
+          <div class="timeline-image">
+            <img class="rounded-circle img-fluid" src="./../assets/img/about/2.png" alt="" />
+          </div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4>Em 1982</h4>
+              <h4 class="subheading">
+                O sonho de enviar obreiros para o Mundo Islâmico
+              </h4>
+            </div>
+            <div class="timeline-body">
+              <p class="text-muted">
+                Logo se casou com Jane, com quem teve três filhos (Natasha,
+                Yusef, e Yamila) e em 1982 estavam vivendo como família no
+                Marrocos. Durante quatro anos oraram para que o Senhor movesse
+                a igreja latina para enviar obreiros ao mundo islâmico.
+              </p>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="timeline-image">
+            <img class="rounded-circle img-fluid" src="./../assets/img/about/3.png" alt="" />
+          </div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4>1987 sul da Espanha</h4>
+              <h4 class="subheading">O início na Espanha</h4>
+            </div>
+            <div class="timeline-body">
+              <p class="text-muted">
+                Visto que era quase impossível comunicar a visão residindo em
+                um país fechado ao evangelho, se mudaram em 1987 para o sul da
+                Espanha. Heinz Suter e sua esposa Isabela se uniram à visão,
+                cooperando com a administração de um escritório. A partir daí
+                surgia o desafio para a América Latina. Nascia o projeto
+                Magrebe!1 Naqueles anos, muito lentamente, começaram a
+                incorporar-se os primeiros obreiros. Foi a resposta a
+                incontáveis orações elevadas ante o trono de Deus.
+              </p>
+            </div>
+          </div>
+        </li>
+        <li class="timeline-inverted">
+          <div class="timeline-image">
+            <img class="rounded-circle img-fluid" src="./../assets/img/about/4.png" alt="" />
+          </div>
+          <div class="timeline-panel">
+            <div class="timeline-heading">
+              <h4>1991</h4>
+              <h4 class="subheading">Outras Regiões</h4>
+            </div>
+            <div class="timeline-body">
+              <p class="text-muted">
+                Inicialmente os obreiros foram se estabelecendo no norte da
+                África, na região subsahariana, e um pouco mais adiante na
+                Ásia Central e do Sul e no Oriente Médio. Devido a esse avanço
+                progressivo, em 1991, se decidiu trocar o nome original por PM
+                Internacional (Povos Muçulmanos).
+              </p>
+            </div>
+          </div>
+        </li>
+        <li class="timeline-inverted">
+          <div class="timeline-image">
+            <h4>
+              Seja Parte
+              <br />
+              Da nossa
+              <br />
+              História!
+            </h4>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </section>
+  <section class="page-section bg-light" id="palavraDiretor"
+    style="display: flex; justify-content: center; align-items: center;">
+    <iframe width="1120" height="630" src="https://www.youtube.com/embed/W-bvUVIj87s?controls=0"
+      title="YouTube video player" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
+  </section>
+  <!-- Team-->
+  <section class="page-section" id="team">
+    <div class="container" style="margin-bottom: -5rem">
+      <div class="text-center">
+        <!-- <h2 class="section-heading text-uppercase">Nossos Parceiros</h2> -->
+        <h2 class="section-heading text-uppercase">Quem nos Conhece</h2>
+        <h3 class="section-subheading text-muted">
+          Uma breve palavra sobre a PMI
+        </h3>
+      </div>
+      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+        <div class="row" class="carousel-inner" style="margin-top: -50px; padding-top: -50px">
+          <div class="col-lg-4" class="carousel-item active">
+            <div class="team-member d-flex flex-column align-items-center mt-5">
+              <img class="mx-auto rounded-circle" src="./../assets/img/imgIndicacoes/RonaldoLidorio.png" alt="" />
+              <h4>Ronaldo Lidorio</h4>
+              <p class="text-muted large">
+                É pastor presbiteriano e missionário ligado à
+                <abbr title="Agência Presbiteriana de Missões Transculturaisa">(APMT)</abbr>
+                e à WEC Internacional
+              </p>
+              <h3 class="section-subheading text-muted citacao">
+                "A PMI é motivo de profunda gratidão a Deus, pela visão do
+                Reino, compromisso com a Palavra e manifesto zelo no
+                desenvolvimento da missão a partir de sinceros e profundos
+                relacionamentos pessoais."
+              </h3>
+              <!-- <div style="margin-top: -25px;">
                 <a class="btn btn-dark btn-social mx-2" href="#!"
                   ><i class="fab fa-twitter"></i
                 ></a>
@@ -560,11 +462,97 @@
                   ><i class="fab fa-linkedin-in"></i
                 ></a>
               </div> -->
-              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4" class="carousel-item">
+            <div class="team-member d-flex flex-column align-items-center mt-5">
+              <img class="mx-auto rounded-circle" src="./../assets/img/imgIndicacoes/FlavioRamos.png" alt="" />
+              <h4>Flavio Ramos</h4>
+              <p class="text-muted large">
+                Presidente da
+                <abbr title=" Missão Evangélica Árabe do Brasil">MEAB</abbr>
+              </p>
+              <h3 class="section-subheading text-muted citacao">
+                "O ministério da PMI tem sido de grande impacto e bençãos na
+                vida milhares de pessoas ao redor do mundo. Para mim é um
+                privilégio servir em parceria com esses irmãos."
+              </h3>
+              <!-- <div style="margin-top: -25px;">
+                <a class="btn btn-dark btn-social mx-2" href="#!"
+                  ><i class="fab fa-twitter"></i
+                ></a>
+                <a class="btn btn-dark btn-social mx-2" href="#!"
+                  ><i class="fab fa-facebook-f"></i
+                ></a>
+                <a class="btn btn-dark btn-social mx-2" href="#!"
+                  ><i class="fab fa-linkedin-in"></i
+                ></a>
+              </div> -->
+            </div>
+          </div>
+
+          <div class="col-lg-4" class="carousel-item">
+            <div class="team-member d-flex flex-column align-items-center mt-5">
+              <img class="mx-auto rounded-circle" src="./../assets/img/imgIndicacoes/JoaoLuizSantiago.png" alt="" />
+              <h4>Joao Luiz Santiago</h4>
+              <p class="text-muted large">
+                Coordenador do Departamento de Missões do
+                <abbr title="Seminário Bíblico Palavra da Vida (Atibaia-SP)">PV</abbr>
+              </p>
+              <h3 class="section-subheading text-muted citacao">
+                "Tenho o prazer de conhecer vários obreiros da PMI e sua
+                seriedade na tarefa missionária aos não alcançados. Agência
+                comprometida com a Causa em tornar o nome de Jesus mais
+                conhecido."
+              </h3>
+              <!-- <div style="margin-top: -25px;">
+                <a class="btn btn-dark btn-social mx-2" href="#!"
+                  ><i class="fab fa-twitter"></i
+                ></a>
+                <a class="btn btn-dark btn-social mx-2" href="#!"
+                  ><i class="fab fa-facebook-f"></i
+                ></a>
+                <a class="btn btn-dark btn-social mx-2" href="#!"
+                  ><i class="fab fa-linkedin-in"></i
+                ></a>
+              </div> -->
+            </div>
+          </div>
+
+          <div class="col-lg-4" class="carousel-item">
+            <div class="team-member d-flex flex-column align-items-center mt-5">
+              <img class="mx-auto rounded-circle" src="./../assets/img/imgIndicacoes/JuarezMarcondesFilho.png" alt="" />
+              <h4>Reverendo Juarez Marcondes Filho</h4>
+              <p class="text-muted large">
+                Pastor da Igreja Presbiteriana Central de Curitiba
+                <abbr title="e secretário do Supremo Concílio da Igreja Presbiteriana do Brasil">...</abbr>
+              </p>
+              <h3 class="section-subheading text-muted citacao" style="min-width: 60% !important">
+                "Em qualquer lugar, fazer Missão é anunciar o nome de Jesus.
+                Mas não se pode fazer Missão do mesmo modo em todo lugar. PMI
+                é uma verdadeira missão voltada para atender uma demanda
+                crescente, em prol dos muçulmanos, por quem Jesus derramou o
+                seu precioso sangue. Se alguém receber o chamado de Deus para
+                ir a estes povos, não pode deixar de incluir o contato com
+                PMI"
+              </h3>
+              <!-- <div style="margin-top: -25px;">
+                <a class="btn btn-dark btn-social mx-2" href="#!"
+                  ><i class="fab fa-twitter"></i
+                ></a>
+                <a class="btn btn-dark btn-social mx-2" href="#!"
+                  ><i class="fab fa-facebook-f"></i
+                ></a>
+                <a class="btn btn-dark btn-social mx-2" href="#!"
+                  ><i class="fab fa-linkedin-in"></i
+                ></a>
+              </div> -->
             </div>
           </div>
         </div>
-        <!-- <div class="row">
+      </div>
+      <!-- <div class="row">
           <div class="col-lg-8 mx-auto text-center">
             <p class="large text-muted">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut
@@ -573,10 +561,10 @@
             </p>
           </div>
         </div> -->
-      </div>
-    </section>
-    <!-- Clients-->
-    <!-- <div class="py-5">
+    </div>
+  </section>
+  <!-- Clients-->
+  <!-- <div class="py-5">
       <div class="container">
         <div class="row">
           <div class="col-md-3 col-sm-6 my-3">
@@ -614,111 +602,76 @@
         </div>
       </div>
     </div> -->
-    <!-- Contact-->
-    <section class="page-section" id="contact">
-      <div class="container">
-        <div class="text-center">
-          <h2 class="section-heading text-uppercase">Contato</h2>
-          <h3 class="section-subheading text-muted">
-            Está interessado no que deus está fazendo no meio do povo mulçumano ? então entre em contato conosco.
-          </h3>
-        </div>
+  <!-- Contact-->
+  <section class="page-section" id="contact">
+    <div class="container">
+      <div class="text-center">
+        <h2 class="section-heading text-uppercase">Contato</h2>
+        <h3 class="section-subheading text-muted">
+          Está interessado no que deus está fazendo no meio do povo mulçumano ? então entre em contato conosco.
+        </h3>
+      </div>
 
-        <form id="contactForm" [formGroup]="formulario"  (ngSubmit)="sendEmail()" novalidate="novalidate">
-          <div class="row align-items-stretch mb-5">
-            <div class="col-md-6">
-              <div class="form-group">
-                <input
-                  class="form-control"
-                  id="name"
-                  type="text"
-                  formControlName="nome"
-                  placeholder="Seu Nome *"
-                  required="required"
-                  data-validation-required-message="Please enter your name."
-                />
-                <p class="help-block text-danger"></p>
-              </div>
-              <div class="form-group">
-                <input
-                  class="form-control"
-                  id="email"
-                  formControlName="email"
-                  name="user_email"
-                  type="email"
-                  placeholder="Seu Email *"
-                  required="required"
-                  data-validation-required-message="Please enter your email address."
-                />
-                <p class="help-block text-danger"></p>
-              </div>
-              <div class="form-group mb-md-0">
-                <input
-                  class="form-control"
-                  id="phone"
-                  formControlName="phone"
-                  type="tel"
-                  name="phone"
-                  placeholder="Seu Telefone *"
-                  required="required"
-                  data-validation-required-message="Please enter your phone number."
-                />
-                <p class="help-block text-danger"></p>
-              </div>
+      <form id="contactForm" [formGroup]="formulario" (ngSubmit)="sendEmail()" novalidate="novalidate">
+        <div class="row align-items-stretch mb-5">
+          <div class="col-md-6">
+            <div class="form-group">
+              <input class="form-control" id="name" type="text" formControlName="nome" placeholder="Seu Nome *"
+                required="required" data-validation-required-message="Please enter your name." />
+              <p class="help-block text-danger"></p>
             </div>
-            <div class="col-md-6">
-              <div class="form-group form-group-textarea mb-md-0">
-                <textarea
-                formControlName="mensagem"
-                  class="form-control"
-                  id="message"
-                  name="message"
-                  placeholder="Sua Mensagem *"
-                  required="required"
-                  data-validation-required-message="Por favor entre com a mensagem."
-                ></textarea>
-                <p class="help-block text-danger"></p>
-              </div>
+            <div class="form-group">
+              <input class="form-control" id="email" formControlName="email" name="user_email" type="email"
+                placeholder="Seu Email *" required="required"
+                data-validation-required-message="Please enter your email address." />
+              <p class="help-block text-danger"></p>
+            </div>
+            <div class="form-group mb-md-0">
+              <input class="form-control" id="phone" formControlName="phone" type="tel" name="phone"
+                placeholder="Seu Telefone *" required="required"
+                data-validation-required-message="Please enter your phone number." />
+              <p class="help-block text-danger"></p>
             </div>
           </div>
-          <div class="text-center">
-            <div id="success"></div>
-            <button
-              class="btn btn-primary btn-xl text-uppercase"
-              type="submit"
-            >
-              Enviar Mensagem
-            </button>
-          </div>
-        </form>
-      </div>
-    </section>
-    <!-- Footer-->
-    <footer class="footer py-4">
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-lg-4 text-lg-left">Copyright © Your Website 2020</div>
-          <div class="col-lg-4 my-3 my-lg-0">
-            <a class="btn btn-dark btn-social mx-2" href="#!"
-              ><i class="fab fa-twitter"></i
-            ></a>
-            <a class="btn btn-dark btn-social mx-2" href="#!"
-              ><i class="fab fa-facebook-f"></i
-            ></a>
-            <a class="btn btn-dark btn-social mx-2" href="#!"
-              ><i class="fab fa-linkedin-in"></i
-            ></a>
-          </div>
-          <div class="col-lg-4 text-lg-right">
-            <a class="mr-3" href="#!">Privacy Policy</a>
-            <a href="#!">Terms of Use</a>
+          <div class="col-md-6">
+            <div class="form-group form-group-textarea mb-md-0">
+              <textarea formControlName="mensagem" class="form-control" id="message" name="message"
+                placeholder="Sua Mensagem *" required="required"
+                data-validation-required-message="Por favor entre com a mensagem."></textarea>
+              <p class="help-block text-danger"></p>
+            </div>
           </div>
         </div>
+        <div class="text-center">
+          <div id="success"></div>
+          <button class="btn btn-primary btn-xl text-uppercase" type="submit">
+            Enviar Mensagem
+          </button>
+        </div>
+      </form>
+
+    </div>
+  </section>
+  <!-- Footer-->
+  <footer class="footer py-4">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-4 text-lg-left">Copyright © Your Website 2020</div>
+        <div class="col-lg-4 my-3 my-lg-0">
+          <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
+          <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
+          <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+        </div>
+        <div class="col-lg-4 text-lg-right">
+          <a class="mr-3" href="#!">Privacy Policy</a>
+          <a href="#!">Terms of Use</a>
+        </div>
       </div>
-    </footer>
-    <!-- Portfolio Modals-->
-    <!-- Modal 1-->
-    <!-- <div
+    </div>
+  </footer>
+  <!-- Portfolio Modals-->
+  <!-- Modal 1-->
+  <!-- <div
       class="portfolio-modal modal fade"
       id="portfolioModal1"
       tabindex="-1"
@@ -804,17 +757,18 @@
       </div>
     </div> -->
 
-    <!-- Bootstrap core JS-->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
-    <!-- Third party plugin JS-->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
-    <!-- Contact form JS-->
-    <script src="./../assets/mail/jqBootstrapValidation.js"></script>
-    <script src="./../assets/mail/contact_me.js"></script>
-    <!-- Core theme JS-->
-    <script src="js/scripts.js"></script>
-    <!-- jqueri para execurtar excript externo a pagina -->
-    <script></script>
-  </body>
+  <!-- Bootstrap core JS-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+  <!-- Third party plugin JS-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+  <!-- Contact form JS-->
+  <script src="./../assets/mail/jqBootstrapValidation.js"></script>
+  <script src="./../assets/mail/contact_me.js"></script>
+  <!-- Core theme JS-->
+  <script src="js/scripts.js"></script>
+  <!-- jqueri para execurtar excript externo a pagina -->
+  <script></script>
+</body>
+
 </html>

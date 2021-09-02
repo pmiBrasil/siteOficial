@@ -20,6 +20,8 @@ import {
 export class AppComponent implements OnInit {
   public formulario: FormGroup; // formulario em questão
   title = 'PMI-BRASIL';
+  retornoEmail: any;
+  buttonClicked: any = false;
   constructor(private formBuilder: FormBuilder,) { }
   ngOnInit(): void {
     window.addEventListener('scroll', function(): void {
@@ -40,6 +42,8 @@ export class AppComponent implements OnInit {
   }
 
   public sendEmail() {
+    this.buttonClicked = true
+
     let templateParams = {
       name: this.formulario.value.nome,
       email: this.formulario.value.email,
@@ -48,10 +52,14 @@ export class AppComponent implements OnInit {
   };
     emailjs.send('service_ky8533w', 'template_xmax7ib', templateParams, 'user_Z1dDHx8QbR6h6dQTzAKYB')
       .then((result: EmailJSResponseStatus) => {
-        console.log(result.text);
+       alert("Contato enviado com Sucesso, em breve retornaremos no seu amail ")
+        // console.log(result.text);
+        this.retornoEmail = true;
       }, (error) => {
         console.log(error.text);
+        this.retornoEmail = false;
       });
   }
+
 
 }
